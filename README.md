@@ -21,9 +21,9 @@ pip install anthropic numpy inflect neo4j ols-py openai pandas PyYAML tiktoken t
 
 ### **3\. Knowledge Graph Configuration (Neo4j)**
 
-3.1. **Launch a Neo4j instance.** You can use Neo4j Desktop or a server deployment.  
-3.2. **Import the knowledge graph data.** Detailed instructions for populating the database are provided in [README.md](https://github.com/liangglhf/scHilda/blob/main/KG/README.md) of the 'KG/' directory.  
-3.3. **Set your own information in the config.py** for the database connection: 
+3.1  **Launch a Neo4j instance.** You can use Neo4j Desktop or a server deployment.  
+3.2  **Import the knowledge graph data.** Detailed instructions for populating the database are provided in [README.md](https://github.com/liangglhf/scHilda/blob/main/KG/README.md) of the 'KG/' directory.  
+3.3  **Set your own information in the config.py** for the database connection: 
 
 ```bash
 NEO4J\_URI="your_neo4j_uri"  
