@@ -15,11 +15,7 @@ cd scHilda
 
 ### **2\. Environment and Dependencies**
 
-We recommend using Conda for environment management.
-
 ```bash
-conda create \-n scHilda python=3.10  
-conda activate scHilda
 pip install anthropic numpy inflect neo4j ols-py openai pandas PyYAML tiktoken tqdm
 ```
 
@@ -38,6 +34,7 @@ NEO4J\_PASSWORD="your\_neo4j\_password"
 ### **4\. LLM API Key Configuration**
 
 Place your API key in the corresponding file of 'APIs/' directory.
+
 Set 'APIs/model/model\_api\_key.yaml':
 
 ```bash
@@ -52,6 +49,6 @@ Once the configuration is complete, you can execute the main script to run the f
 python main.py
 ```
 
-This command will process the datasets predefined in main.py, save the annotation results to the 'results/' directory, and print the evaluation scores to the console.
+This command will process the datasets predefined in 'main.py', save the annotation results to the 'results/' directory, and print the evaluation scores to the console.
 
 To adapt the framework for your custom datasets, format your data according to the examples in the 'datasets/' directory and modify the dataset list within the 'main.py' script accordingly.
