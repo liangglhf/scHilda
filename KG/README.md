@@ -6,7 +6,7 @@ The 'KG/' directory contains the complete dataset for the scHilda knowledge grap
 
 ### **2\. Database Setup and Node Importation**
 
-To begin, provision a new instance on [Neo4j Aura](https://www.google.com/search?q=https://neo4j.com/cloud/aura-db/).
+To begin, provision a new instance on [Neo4j Aura](https://neo4j.com/product/auradb/).
 
 Within the new instance, first execute the following commands to establish essential uniqueness constraints. This step is critical for data integrity and optimal import performance.
 
