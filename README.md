@@ -26,9 +26,9 @@ pip install anthropic numpy inflect neo4j ols-py openai pandas PyYAML tiktoken t
 3. **Set your own information in the config.py** for the database connection: 
 
 ```bash
-NEO4J\_URI="bolt://localhost:7687"  
-NEO4J\_USERNAME="neo4j"  
-NEO4J\_PASSWORD="your\_neo4j\_password"
+NEO4J\_URI="your_neo4j_uri"  
+NEO4J\_USERNAME="your_neo4j_username"  
+NEO4J\_PASSWORD="your_neo4j_password"
 ```
 
 ### **4\. LLM API Key Configuration**
