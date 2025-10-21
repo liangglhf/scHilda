@@ -1,0 +1,324 @@
+dataset,tissue,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype
+Azimuth,Adipose,"MYH11, TAGLN, ADGRL3, SORBS2, RCAN2, MYOCD, LMOD1, CARMN, CALD1, RGS6",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+Azimuth,Adipose,"IL7R, THEMIS, CAMK4, BCL11B, ITK, ANK3, CD96, TC2N, SKAP1, CD2",T,T cell,CL:0000084,t/nk cell
+Azimuth,Adipose,"COL25A1, POSTN, DLC1, STEAP4, MYO1B, RGS5, EBF2, THSD7B, KCNAB1, RGS6",Pericyte,pericyte,CL:0000669,pericyte
+Azimuth,Adipose,"CSF3R, EPHB1, SORL1, GLT1D1, KCNJ15, SLC25A37, LUCAT1, CPPED1, LRRK2, MXD1",Neutrophil,neutrophil,CL:0000775,granulocyte
+Azimuth,Adipose,"VCAN, FCN1, SLC11A1, CSF3R, IL1B, KYNU, SAMSN1, CTSS, RNF144B, COTL1",Monocyte,monocyte,CL:0000576,macrophage/monocyte
+Azimuth,Adipose,"AP000561.1, AC005699.1, LINC02360, MSLN, KCTD8, PKHD1L1, COL8A1, LSAMP, PTPRQ, FAM155A",Mesothelial,mesothelial cell,CL:0000077,epithelial cell
+Azimuth,Adipose,"CPA3, KIT, TPSB2, NTM, TPSAB1, HGPD, MS4A2, SLC24A3, HDC, IL18R1",Mast,mast cell,CL:0000097,granulocyte
+Azimuth,Adipose,"F13A1, MRC1, LGMN, FTL, CYBB, RBPJ, FRMD4B, SCN9A, CD163L1, IQGAP2",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+Azimuth,Adipose,"GNLY, CD247, SAMD3, NKG7, KLRD1, TXK, PYHIN1, CCL5, CCL4, KLRF1",NK,natural killer cell,CL:0000623,t/nk cell
+Azimuth,Adipose,"MECOM, PTRB, VWF, ANO2, BTNL9, LDB2, ADGRL4, PTPRM, JAM2, CADM2",Endothelial,endothelial cell,CL:0000115,endothelial cell
+Azimuth,Adipose,"KCNIP4, DPP6, PRLR, MEIS1, SYT1, AC012404.1, CNTN4, RORA, PAPPA, TSHZ2",Endometrial,,,uterus cell
+Azimuth,Adipose,"HLA-DRB1, FLT3, HLA-DPB1, HLA-DRA, HLA_DQA1, IL1R2, HLA-DPA1, HLA-DQB1, CD74, RTN1",Dendritic,dendritic cell,CL:0000451,dendritic cell
+Azimuth,Adipose,"IGKC, MS4A1, BANK1, IGHG1, IGLC3, IGHGP, FCRL1, BCL11A, IGHA1, JCHAIN",B,B cell,CL:0000236,b cell
+Azimuth,Adipose,"GPAM, ADIPOQ, ACACB, PCDH9, GHR, TRHDE, SORBS1, PLIN1, PDE3B, WDPCP",Adipocyte,fat cell,CL:0000136,fat cell
+Azimuth,Adipose,"MMRN1, CCL21, AL357507.1, PROX1, PPFIBP1, NRG3, RELN, STOX2, TFPI, LINC02147",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+Azimuth,Bone Marrow,"RGS18,C2orf88,TMEM40,GP9,PF4,PPBP,DAB2,SPARC,RUFY1,F13A1",Platelet,platelet,CL:0000233,platelet
+Azimuth,Bone Marrow,"NPY,LCN6,RAG2,HMHB1,ARPP21,AKAP12,RAG1,C10orf10,CYGB,SLC8A1-AS1",Precursor B,precursor B cell,CL:0000817,b cell
+Azimuth,Bone Marrow,"ENHO,CLEC10A,RNASE2,PLBD1,FCER1A,IGSF6,MNDA,SAMHD1,ALDH2,PAK1",Precursor Myeloid Dendritic Dell,,,progenitor cell
+Azimuth,Bone Marrow,"SCT,SHD,LILRA4,LILRB4,PTPRS,TNNI2,PLD4,SPIB,IRF8,TNFRSF21",Precursor Plasmacytoid Dendritic Cell,,,progenitor cell
+Azimuth,Bone Marrow,"CYGB,UMODL1,EBF1,MME,VPREB1,DNTT,IGLL1,UHRF1,BLNK,AGPS",Progenitor B,pro-B cell,CL:0000826,progenitor cell
+Azimuth,Bone Marrow,"RRM2,MKI67,BIRC5,LCK,SH2D1A,CLSPN,CDT1,TK1,TOP2A,TRAC",Proliferating T,,,t/nk cell
+Azimuth,Bone Marrow,"IGFBP5,CP,TF,DCN,LUM,COL1A2,CRH,TNC,SPARCL1,BMP5",Stromal,stromal cell,CL:0000499,stromal cell
+Azimuth,Bone Marrow,"BMP3,CFAP73,ARPP21,IGLC5,APBB2,HRK,DTX1,AKAP12,IGLC6,MME",Transitional B,transitional stage B cell,CL:0000818,b cell
+Azimuth,Bone Marrow,"SERPINB10,RNASE3,MS4A3,PRTN3,ELANE,AZU1,CTSG,RNASE2,RETN,NPW",Granulocyte Monocyte Progenitor,granulocyte monocyte progenitor cell,CL:0000557,progenitor cell
+Azimuth,Bone Marrow,"SDC1,IGLC6,IGLV6-57,TNFRSF17,IGLV3-1,TNFRSF13B,IGLC7,JSRP1,FCRL5,IGKV1-5",Plasma,plasma cell,CL:0000786,b cell
+Azimuth,Bone Marrow,"CLEC1B,SPX,WFDC1,ANXA3,CMTM5,SELP,RBPMS2,ARHGAP6,GP9,LTBP1",Progenitor Megakaryocyte,megakaryocyte progenitor cell,CL:0000553,progenitor cell
+Azimuth,Bone Marrow,"ASIP,CLEC4C,SCAMP5,PROC,PTCRA,SCT,SHD,PPM1J,LILRA4,LRRC26",Plasmacytoid Dendritic Cell,plasmacytoid dendritic cell,CL:0000784,dendritic cell
+Azimuth,Bone Marrow,"CRHBP,AVP,MYCT1,BEX1,NPR3,CRYGD,MSRB3,CD34,NPDC1,MLLT3",Hematopoeitic Stem Cell,hematopoietic stem cell,CL:0000037,stem cell
+Azimuth,Bone Marrow,"SPTSSB,NCAM1,KLRC1,XCL1,IL18RAP,XCL2,IL2RB,KLRF1,TNFRSF18,KLRD1",Natural Killer CD56+,,,t/nk cell
+Azimuth,Bone Marrow,"MYCT1,CRHBP,NPR3,AVP,GATA2,HPGDS,CYTL1,CRYGD,IGSF10,PBX1",Erythroid Megakaryocyte Progenitor,megakaryocyte-erythroid progenitor cell,CL:0000050,progenitor cell
+Azimuth,Bone Marrow,"GZMA,GZMB,TRDC,PRF1,TYMS,FGFBP2,KLRF1,CD247,GZMH,CCL4",Proliferating Natural Killer,,,t/nk cell
+Azimuth,Bone Marrow,"CNRIP1,GATA2,ITGA2B,TFR2,GATA1,KLF1,CYTL1,MAP7,FSCN1,APOC1",Early Erythroid,,,erythroid cell
+Azimuth,Bone Marrow,"ACY3,PRSS2,C1QTNF4,SPINK2,SMIM24,NREP,CD34,DNTT,FLT3,SPNS3",Common Lymphoid Progenitor,common lymphoid progenitor,CL:0000051,progenitor cell
+Azimuth,Bone Marrow,"ENHO,CLEC10A,CD1C,IL13RA1,PLBD1,LGALS2,CD33,IGSF6,IFI30,FCER1A",Conventional Dendritic Cell 2,conventional dendritic cell,CL:0000990,dendritic cell
+Azimuth,Bone Marrow,"IDO1,XCR1,TACSTD2,CLEC9A,WFDC21P,CLNK,CADM1,DNASE1L3,BATF3,LGALS2",Conventional Dendritic Cell 1,conventional dendritic cell,CL:0000990,dendritic cell
+Azimuth,Bone Marrow,"NELL2,CD8B,S100B,TRABD2A,CCR7,OXNAD1,FLT3LG,MAL,LEF1,CAMK4",CD8 Naive,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,t/nk cell
+Azimuth,Bone Marrow,"CD8B,CD8A,GZMK,IL7R,BCL11B,CD3E,PIK3IP1,CD6,TRAC,SPOCK2",CD8 Memory,"CD8-positive, alpha-beta memory T cell",CL:0000909,t/nk cell
+Azimuth,Bone Marrow,"GZMK,CD160,CD8A,KLRB1,LAG3,CCL4,XCL2,GZMM,XCL1,CCL3",CD8 Effector 3,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+Azimuth,Bone Marrow,"ZNF683,PRSS23,KLRC2,FCRL6,S1PR5,GZMH,FGFBP2,PATL2,TRGC2,CD3G",CD8 Effector 2,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+Azimuth,Bone Marrow,"CRTAM,IFNG,CD8A,XCL1,GZMK,TIGIT,CCL4L2,CD8B,CD160,XCL2",CD8 Effector 1,"effector CD8-positive, alpha-beta T cell",CL:0001050,t/nk cell
+Azimuth,Bone Marrow,"MAL,TRAT1,AP3M2,CAMK4,AQP3,IL7R,RCAN3,BCL11B,LEF1,FLT3LG",CD4 Memory,"CD4-positive, alpha-beta memory T cell",CL:0000897,t/nk cell
+Azimuth,Bone Marrow,"TNFRSF4,AQP3,TNFRSF25,MAL,IL7R,TRAT1,RORA,FLT3LG,KLRB1,CD6",CD4 Effector,"effector CD4-positive, alpha-beta T cell",CL:0001044,t/nk cell
+Azimuth,Bone Marrow,"LYPD2,VMO1,TPPP3,C1QA,C5AR1,CD300E,GPBAR1,LILRA1,HES4,APOBEC3A",CD16 Monocyte,,,macrophage/monocyte
+Azimuth,Bone Marrow,"TSHZ2,MAL,CCR7,CAMK4,LEF1,BCL11B,FHIT,RCAN3,SH3YL1,PIK3IP1",CD4 Naive,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+Azimuth,Bone Marrow,"KLRB1,IL7R,TNFRSF25,SPOCK2,RORA,NCR3,GZMK,KLRG1,TRGC2,CD6",Mucosal associated invariant T,mucosal invariant T cell,CL:0000940,t/nk cell
+Azimuth,Bone Marrow,"FCRL2,FCRL1,ARHGAP24,FCRL5,FCER2,FCRLA,PAX5,CD19,HLA-DOB,CD22",Naive B,naive B cell,CL:0000788,b cell
+Azimuth,Bone Marrow,"FCRL2,TNFRSF13B,ARHGAP24,PNOC,FCER2,FCRLA,BLK,HLA-DOB,MS4A1,TNFRSF13C",Memory B,memory B cell,CL:0000787,b cell
+Azimuth,Bone Marrow,"FOLR3,CLEC4E,MCEMP1,RBP7,CDA,FPR1,CD300E,C5AR1,CD93,APOBEC3A",CD14 Monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte
+Azimuth,Bone Marrow,"SPIC,FABP3,CD5L,CCL18,C1QC,C1QB,FABP4,C1QA,APOE,SELENOP",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+Azimuth,Bone Marrow,"AVP,CRHBP,C1QTNF4,BEX1,NPR3,CD34,NPW,SMIM24,CSF3R,NPDC1",Lymphoid Primed Multipotent Progenitor,early lymphoid progenitor,CL:0000936,progenitor cell
+Azimuth,Bone Marrow,"CTSE,TSPO2,IFIT1B,TMEM56,RHCE,RHAG,SPTA1,ADD2,EPCAM,HBG1",Late Erythroid,,,erythroid cell
+Azimuth,Bone Marrow,"LDB2,CD160,XCL2,KLRB1,XCL1,KLRF1,KLRD1,KLRC1,TRDC,GZMM",Innate Lymphoid Cell,innate lymphoid cell,CL:0001065,innate lymphoid cell
+Azimuth,Bone Marrow,"HDC,MS4A2,TPSAB1,TPSB2,CLC,CPA3,MS4A3,IL1RL1,PRG2,HPGDS",Basophil Eosinophil Mast Progenitor,basophil mast progenitor cell,CL:0002028,progenitor cell
+Azimuth,Bone Marrow,"AXL,SCT,LILRA4,PPP1R14A,TGFBI,UPK3A,SCN9A,CLEC10A,PROC,PLD4",AXL+ Dendritic Cell,,,dendritic cell
+Azimuth,Bone Marrow,"SH2D1B,PRSS23,S1PR5,LAIR2,KLRC1,PTGDR,FGFBP2,FCRL6,TBX21,KLRC2",Natural Killer,natural killer cell,CL:0000623,t/nk cell
+Azimuth,Fetal Development,"CHGA, PCSK1N, GNAS, ERO1LB, CPE, INS, CADPS, TTR, MEIS2, MAFB",Islet endocrine cells,,,secretory cell
+Azimuth,Fetal Development,"NRXN3, MEIS2, CADM2, ZNF385D, RORB, DCC, SYT1, DSCAM, MIR181A1HG, RP11-689K5.3",Amacrine cells,amacrine cell,CL:0000561,neuron
+Azimuth,Fetal Development,"ERBB4, NRXN1, LRP1B, NLGN1, LPHN3, CCSER1, PCDH9, UNC5C, STXBP5L, GRIA2",Unipolar brush cells,unipolar brush cell,CL:4023161,neuron
+Azimuth,Fetal Development,"CEL, SPINK1, CPA1, CTRB2, CLPS, SYCN, CPA2, GP2, CTRB1, DLK1",Acinar cells,acinar cell,CL:0000622,epithelial cell
+Azimuth,Fetal Development,"DACH1, PAX2, EYA1, HMGA2, GPC3, TRABD2B, ITGA8, PTPN14, WT1, BMPER",Metanephric cells,,,kidney cell
+Azimuth,Fetal Development,"IGF2, SLC4A4, DLK1, ATP1B1, CFTR, FXYD2, JUN, CLU, SPINK1, H3F3B",Ductal cells,pancreatic ductal cell,CL:0002079,epithelial cell
+Azimuth,Fetal Development,"ERBB4, GRIK2, RELN, NRG1, KCND2, CNTN5, NRXN1, SYT1, ROBO2, NELL2",Granule neurons,granule cell,CL:0000120,neuron
+Azimuth,Fetal Development,"NRXN3, RORB, CNTN4, ONECUT1, TNR, MEGF10, MEGF11, ONECUT2, CACNG3, TFAP2B",Horizontal cells,retina horizontal cell,CL:0000745,neuron
+Azimuth,Fetal Development,"TENM3, FBN2, ARL15, EGFR, KANK1, ZFAT, SVEP1, RHOBTB1, RP11-30J20.1, MBNL3",Syncytiotrophoblasts and villous cytotrophoblasts,"syncytiotrophoblast cell,placental villous trophoblast","CL:0000525,CL:2000060",extraembryonic cell
+Azimuth,Fetal Development,"TRPM1, TYR, COL8A1, SLC38A11, LINC00276, BEST1, RP11-690J15.1, RPE65, TYRP1, PMEL",Retinal pigment cells,retinal pigment epithelial cell,CL:0002586,epithelial cell
+Azimuth,Fetal Development,"GPC3, KIAA1217, PALLD, MEIS2, MEIS1, FLRT2, TNC, NR2F2, KIF26B, CCBE1",Mesangial cells,mesangial cell,CL:0000650,pericyte
+Azimuth,Fetal Development,"COL4A2, COL3A1, COL1A1, CALD1, NOTCH3, COL6A3, BGN, RGS5, PDGFRB, ITGA1",Smooth muscle cells,smooth muscle cell,CL:0000192,muscle cell
+Azimuth,Fetal Development,"PCSK5, APOA1, C10orf112, RAB11FIP1, LGALS3, ARID3A, THRB, CPS1, MYH14, HNF4A",Intestinal epithelial cells,intestinal epithelial cell,CL:0002563,epithelial cell
+Azimuth,Fetal Development,"NRXN3, CCSER1, CTNNA2, RBFOX1, LRRC7, MYT1L, GRIN2B, GRM5, RP11-85M11.2, MIR137HG",Inhibitory neurons,,,neuron
+Azimuth,Fetal Development,"TTN, MYL7, TNNT2, TPM1, ACTC1, SLC8A1, TNNC1, MYL4, MYH7, TNNI1",Cardiomyocytes,cardiac muscle cell,CL:0000746,muscle cell
+Azimuth,Fetal Development,"MPO, ALB, RNF220, ITGA4, RP5-964N17.1, RUNX1, ANGPT1, ARHGAP15, IQGAP2, GPR141",Hematopoietic stem cells,hematopoietic stem cell,CL:0000037,stem cell
+Azimuth,Fetal Development,"CLDN18, SPINK1, RAB11FIP1, AGR2, MUC6, LYZ, ELF3, GPRC5A, PPARG, PIK3C2G",Goblet cells,goblet cell,CL:0000160,epithelial cell
+Azimuth,Fetal Development,"RAG1, CCL19, HLA-DRA, CD74, CLNK, HLA-DRB1, HLA-DPB1, BIRC3, WDFY4, CIITA",Antigen presenting cells,professional antigen presenting cell,CL:0000145,antigen presenting cell
+Azimuth,Fetal Development,"RP11-114G22.1, PRSS16, TBATA, FAM163A, AC005042.5, FOXN1, PAX1, MIR205HG, LY75, NEURL2",Thymic epithelial cells,epithelial cell of thymus,CL:0002293,epithelial cell
+Azimuth,Fetal Development,"CSH1, PAPPA, ADAM12, CYP19A1, TFPI2, CSH2, CGA, PSG1, KISS1, FBLN1",Trophoblast giant cells,trophoblast giant cell,CL:0002488,extraembryonic cell
+Azimuth,Fetal Development,"CRYBB1, CRYAA, CRYBB2, CRYBA4, CRYBA1, CRYGC, BFSP1, LIM2, MIP, BFSP2",Lens fibre cells,lens fiber cell,CL:0011004,epithelial cell
+Azimuth,Fetal Development,"DAB1, GRID2, RORA, AUTS2, BAI3, NRG1, EBF1, GRIK1, FOXP2, LPHN2",Purkinje neurons,Purkinje cell,CL:0000121,neuron
+Azimuth,Fetal Development,"S100A9, LYPD2, LCN2, MUC4, SLPI, KRT4, CP, MUC16, CEACAM6, MUC15",Corneal and conjunctival epithelial cells,,,epithelial cell
+Azimuth,Fetal Development,"GRP, SEC11C, ASCL1, GHRL, TPH1, HEPACAM2, TFF3, MS4A8, LINC00261, DDC",Neuroendocrine cells,neuroendocrine cell,CL:0000165,epithelial cell
+Azimuth,Fetal Development,"GRIK1, FSTL5, ZNF385B, ZNF804B, CA10, ZPBP, FAM19A4, VSX2, TRPC7, SLC1A7",Bipolar cells,,,neuron
+Azimuth,Fetal Development,"COL25A1, IGFBP3, ALB, NR1H4, HHIP, CCBE1, HGF, COLEC11, COLEC10, PTH1R",Stellate cells,,,fibroblast
+Azimuth,Fetal Development,"ESRRG, IGFBP5, FGD4, ATP4B, ATP4A, CLDN18, GIF, ARHGEF28, CLIC6, IGFBP2",Parietal and chief cells,"parietal cell,NA","CL:0000162,NA",epithelial cell
+Azimuth,Fetal Development,"C3, PRG4, CCDC80, SULF1, ITLN1, RP11-572C15.6, MSLN, CFH, AP000705.7, PLA2G2A",Epicardial fat cells,epicardial adipocyte,CL:1000309,fat cell
+Azimuth,Fetal Development,"CDHR3, DNAH12, CAPS, TPPP3, LRRIQ1, C4orf22, STK33, DNAH9, AGBL4, RP11-56A10.1",Ciliated epithelial cells,ciliated epithelial cell,CL:0000067,epithelial cell
+Azimuth,Fetal Development,"PRPH, SLC5A7, SLC18A3, PIRT, SST, RP11-466P24.7, CHRNA3, GAL, RGS4, PHOX2B",Visceral neurons,visceromotor neuron,CL:0005025,neuron
+Azimuth,Fetal Development,"KCNQ5, EML5, ELAVL4, PHOX2B, MIR137HG, RP11-348J24.2, CNGB1, PRPH, FAM163A, NOS1",ENS neurons,enteric neuron,CL:0007011,neuron
+Azimuth,Fetal Development,"FN1, FLT1, ISM2, NOTUM, PAPPA2, PRG2, ADAM12, FSTL3, QSOX1, SERPINE2",Extravillous trophoblasts,extravillous trophoblast,CL:0008036,extraembryonic cell
+Azimuth,Fetal Development,"KRT19, KRT13, RAB11FIP1, ANXA1, S100A6, DSP, ELF3, PITX1, AQP3, KRT5",Squamous epithelial cells,squamous epithelial cell,CL:0000076,epithelial cell
+Azimuth,Fetal Development,"LEF1, BCL11B, CALN1, TFDP2, ARHGAP15, THEMIS, SATB1, IKZF2, RUNX1, TCF7",Thymocytes,thymocyte,CL:0000893,t/nk cell
+Azimuth,Fetal Development,"MPZ, OLFML2A, PLP1, CDH19, SOX10, FOXD3, S100B, INSC, ABCA8, NGFR",Schwann cells,Schwann cell,CL:0002573,glial cell
+Azimuth,Fetal Development,"RORB, LGR4, SORCS1, GALNT13, CLVS1, CRB1, ILDR2, FAM184B, ADAMTS18, RP11-89K21.1",Retinal progenitors and Muller glia,"retinal progenitor cell,Mueller cell","CL:0002672,CL:0000636","progenitor cell,radial glial cell"
+Azimuth,Fetal Development,"ALB, AFP, APOA1, APOA2, SERPINA1, APOB, HBA1, AHSG, IGF2, HBG2",Hepatoblasts,hepatoblast,CL:0005026,stem cell
+Azimuth,Fetal Development,"LTBP1, ITGB3, ITGA2B, PF4, THBS1, PLEK, MED12L, PRKAR2B, RUNX1, ARHGAP6",Megakaryocytes,megakaryocyte,CL:0000556,megakaryocyte
+Azimuth,Fetal Development,"ANK2, CADM2, KCNIP4, ROBO2, NRG3, CTNNA2, MDGA2, EPHA6, RALYL, EBF1",Ganglion cells,retinal ganglion cell,CL:0000740,neuron
+Azimuth,Fetal Development,"COL1A1, COL3A1, COL1A2, DCN, COL6A2, COL5A1, COL5A2, IGF2, SPARC, VCAN",Stromal cells,stromal cell,CL:0000499,stromal cell
+Azimuth,Fetal Development,"STAR, CYP17A1, SCARB1, DLK1, DHCR24, FDX1, CYP11A1, LDLR, RBM47, SH3BP5",Adrenocortical cells,cortical cell of adrenal gland,CL:0002097,epithelial cell
+Azimuth,Fetal Development,"CD74, SRGN, SAMHD1, CST3, AOAH, SLC9A9, CTSB, RBM47, LGMN, FTL",Myeloid cells,myeloid cell,CL:0000763,myeloid cell
+Azimuth,Fetal Development,"ATP11A, CPM, MECOM, SFTPB, SFTPC, FGFR2, SFTA3, ETV5, ROS1, WIF1",Bronchiolar and alveolar epithelial cells,,,epithelial cell
+Azimuth,Fetal Development,"LDB2, FLT1, COL4A2, COL4A1, PTPRM, IGFBP7, HSPG2, TCF4, PTPRB, EPAS1",Vascular endothelial cells,endothelial cell of vascular tree,CL:0002139,endothelial cell
+Azimuth,Fetal Development,"CLCN5, OLFML2A, NEB, MATN2, MEGF10, FLNC, PAX7, FGFR4, CDH15, CALCR",Satellite cells,skeletal muscle satellite cell,CL:0000594,progenitor cell
+Azimuth,Fetal Development,"NPAS3, PTN, GRID2, LSAMP, GPM6A, SLC1A3, QKI, BAI3, CTNND2, PTPRZ1",Astrocytes,astrocyte,CL:0000127,astrocyte
+Azimuth,Fetal Development,"CHGA, CHGB, DPP6, FGF14, RGS5, AGBL4, CACNA2D3, DBH, SLC24A2, SLC18A1",Sympathoblasts,,,progenitor cell
+Azimuth,Fetal Development,"MECOM, NAALADL2, PKHD1, INADL, PAX8, GATA3, COBLL1, BMPR1B, DCDC2, PAX2",Ureteric bud cells,,,ureteric bud cell
+Azimuth,Fetal Development,"CCL21, TFPI, STAB2, PROX1, RELN, EFNA5, IGFBP7, CD36, MMRN1, LYVE1",Lymphatic endothelial cells,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+Azimuth,Fetal Development,"PTPRD, NTNG1, RNF220, CNTNAP2, NRXN1, TENM2, RIMS2, RBFOX1, ERC2, MEG3",Limbic system neurons,,,neuron
+Azimuth,Fetal Development,"PLXDC2, SPP1, DOCK4, SFMBT2, FRMD4A, SLC9A9, ITPR2, DOCK8, APBB1IP, IPCEF1",Microglia,microglial cell,CL:0000129,microglia
+Azimuth,Fetal Development,"AP000705.7, C3, SULF1, ALDH1A2, HHIP, MSLN, LINC00842, TFPI2, PTPRQ, SBSPON",Mesothelial cells,mesothelial cell,CL:0000077,epithelial cell
+Azimuth,Fetal Development,"TTN, MYH3, NEB, MYLPF, TPM2, MYL1, ACTC1, ACTA1, TNNC2, TNNT3",Skeletal muscle cells,cell of skeletal muscle,CL:0000188,muscle cell
+Azimuth,Fetal Development,"SLC35F1, ZNF536, GFRA1, CDH19, PLP1, PRIMA1, COL20A1, SOX10, MPZ, INSC",ENS glia,,,glial cell
+Azimuth,Fetal Development,"RBFOX1, PTPRD, ROBO2, LRRC7, NRXN1, DLGAP1, GPM6A, NKAIN2, SOX5, TMEM108",Excitatory neurons,,,neuron
+Azimuth,Fetal Development,"PTPRC, ARHGAP15, B2M, PABPC1, SKAP1, LCP1, HLA-B, FAM65B, ETS1, CD247",Lymphoid cells,lymphocyte,CL:0000542,lymphocyte
+Azimuth,Fetal Development,"CADM2, MARCH1, SYT1, EYS, RORB, FSTL5, GALNT13, MPPED2, CADPS, ZNF385B",Photoreceptor cells,photoreceptor cell,CL:0000210,neuron
+Azimuth,Fetal Development,"COL3A1, POSTN, VIM, CDH11, HSPG2, EMCN, FN1, CALCRL, ENG, HMCN1",Endocardial cells,endocardial cell,CL:0002350,endothelial cell
+Azimuth,Fetal Development,"LSAMP, CSMD1, LHFPL3, KCND2, PCDH15, CADM2, PTPRZ1, LRRC4C, OPCML, LRP1B",Oligodendrocytes,oligodendrocyte,CL:0000128,oligodendrocyte
+Azimuth,Fetal Development,"RBFOX1, RGS5, STMN2, CACNA2D3, CHGB, KCNQ5, ALCAM, BMPR1B, CHGA, DBH",Chromaffin cells,chromaffin cell,CL:0000166,epithelial cell
+Azimuth,Fetal Development,"NRXN3, UNC5C, XKR4, NRXN1, NKAIN2, GRID2, CSMD1, ADARB2, ANKS1B, MSRA",Inhibitory interneurons,inhibitory interneuron,CL:0000498,neuron
+Azimuth,Fetal Development,"HBG2, HBA1, HBA2, HBG1, SLC25A37, ANK1, TFRC, CD36, EPB41, SPTA1",Erythroblasts,erythroblast,CL:0000765,erythroid cell
+Azimuth,Heart,"SLC24A3, IL18R1, CPA3, NTM, KIT, SLC8A3, SLC38A11, CDK15, HPGDS, RAB27B",Mast,mast cell,CL:0000097,granulocyte
+Azimuth,Heart,"DCN, APOD, ACSM3, CFD, ABCA9, NEGR1, LAMA2, ABCA6, ABCA8, KAZN",Fibroblast,fibroblast,CL:0000057,fibroblast
+Azimuth,Heart,"KIT, IL18R1, RD3, CPA3, SLC38A11, SLC8A3, TPSAB1, HDC, MS4A2, OR8A1",ILC,innate lymphoid cell,CL:0001065,innate lymphoid cell
+Azimuth,Heart,"CCL21, MMRN1, RELN, PKHD1L1, SEMA3A, PPFIBP1, TFPI, SNTG2, EFNA5, PROX1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+Azimuth,Heart,"F13A1, RBPJ, MRC1, CD163, COLEC12, RBM47, FMN1, MS4A6A, STAB1, FRMD4B",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+Azimuth,Heart,"ITLN1, PDZRN4, SLC39A8, PRG4, GFPT2, C3, KCNT2, WWC1, HAS1, RBFOX1",Mesothelial,mesothelial cell,CL:0000077,epithelial cell
+Azimuth,Heart,"IL7R, THEMIS, ITK, PARP8, CAMK4, SKAP1, TC2N, BCL11B, PTPRC, PRKCQ",T,T cell,CL:0000084,t/nk cell
+Azimuth,Heart,"NRXN1, NRXN3, CADM2, XKR4, CDH19, ADGRB3, CHL1, NCAM2, KIRREL3, SORCS1",Neuronal,neuron,CL:0000540,neuron
+Azimuth,Heart,"GNLY, NKG7, CD247, TXK, KLRD1, CCL4, CCL5, AOAH, PRF1, PARP8",NK,natural killer cell,CL:0000623,t/nk cell
+Azimuth,Heart,"RGS5, ABCC9, GUCY1A2, EGFLAM, DLC1, FRMD3, PDGFRB, AGT, PLA2G5, EPS8",Pericyte,pericyte,CL:0000669,pericyte
+Azimuth,Heart,"MYH11, ITGA8, ACTA2, CARMN, KCNAB1, TAGLN, ZFHX3, PRKG1, NTRK3, RCAN2",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+Azimuth,Heart,"TPO, ACKR1, TSHZ2, RAMP3, FAM155A, ABCB1, CALCRL, CYYR1, IGFBP5, EPHB4, NPP2",Venous Endothelial,vein endothelial cell,CL:0002543,endothelial cell
+Azimuth,Heart,"FHL2, RYR2, MLIP, TTN, CTNNA3, RBM20, FGF12, SLC8A1, MYOM1, MYH7, MYL2",Ventricular Cardiomyocyte,ventricular cardiac muscle cell,CL:2000046,muscle cell
+Azimuth,Heart,"PCDH15, EGFL7, NRG3, LEPR, NRG1, POSTN, PCDH7, TMEM132C, CDH11, TMEM108",Endocardial,endocardial cell,CL:0002350,endothelial cell
+Azimuth,Heart,"S100A8, S100A9, CD163, MSR1, SLC11A1, FMN1, RBM47, ITGAX, ADAM28, FLT3, CD74",Monocyte/cDC,"monocyte,conventional dendritic cell","CL:0000576,CL:0000990","macrophage/monocyte,dendritic cell"
+Azimuth,Heart,"BTNL9, FABP5, IFI27, RGCC, F8, MGLL, CA4, ADGRF5, ABLIM3, FLT1",Capillary Endothelial,,,endothelial cell
+Azimuth,Heart,"MYRIP, POSTN, NRG3, LDB2, SLCO2A1, ANO2, VWF, FAM155A, IL1R1, KCNIP4",Endothelial,endothelial cell,CL:0000115,endothelial cell
+Azimuth,Heart,"LINC00639, ARL15, MECOM, IGFBP3, PCSK5, TM4SF1, EFNB2, DLL4, HEY1, GJA5",Arterial Endothelial,endothelial cell of artery,CL:1000413,endothelial cell
+Azimuth,Heart,"GPAM, ACACB, GHR, PDE3B, FASN, PRKAR2B, MGST1, PLIN1, LINC00598, SLC19A3",Adipocyte,fat cell,CL:0000136,fat cell
+Azimuth,Heart,"IGKC, IGHM, IGHA1, AFF3, BANK1, IFNG-AS1, GNG7, MZB1, RALGPS2, MS4A1",B,B cell,CL:0000236,b cell
+Azimuth,Heart,"MYL7, FGF12, MYH6, ANKRD1, RYR2, ERBB4, TTN, CMYA5, NPPA, MYL7",Atrial Cardiomyocyte,regular atrial cardiac myocyte,CL:0002129,muscle cell
+Azimuth,Kidney,"KRT13,EEF1A1,S100A6,EHF,AMBRA1,LCN2,SLPI,TACSTD2,RPL41,RPLP1",Papillary Tip Epithelial,papillary tips cell,CL:1000597,epithelial cell
+Azimuth,Kidney,"LINC01099,PDE4D,NR3C2,SCN2A,CADPS2,COBLL1,TOX3,DCDC2,SLC14A2,ABTB2",Connecting Tubule,,,kidney cell
+Azimuth,Kidney,"SH3GL3,PLCB1,LGR4,BICDL1,PAX8,MAL,CACNA2D3,CDR2,PTPN14,PKHD1",Ascending Thin Limb,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,epithelial cell
+Azimuth,Kidney,"KCNT2,ALDH1A2,CFH,PAWR,FRMD4A,SLC4A11,LINC01435,PDE1A,RHEX,SYNE1",Parietal Epithelial,parietal epithelial cell,CL:1000452,epithelial cell
+Azimuth,Kidney,"SHANK3,ADGRL4,EGFL7,TEK,PLVAP,CEACAM1,NOSTRIN,SLCO2A1,CALCRL,FLT1",Endothelial,endothelial cell,CL:0000115,endothelial cell
+Azimuth,Kidney,"KSR2,ABTB2,GRIP1,EYA4,GATA3,ANK3,PRKAG2,C11orf80,MECOM,PAPPA",Principal,renal principal cell,CL:0005009,epithelial cell
+Azimuth,Kidney,"LINC01020,PLG,AGXT2,ACMSD,SLC36A2,SLC13A1,CDH9,LINC02027,CUBN,RAB11FIP3",Proximal Tubule,epithelial cell of proximal tubule,CL:0002306,epithelial cell
+Azimuth,Kidney,"CDH19,NRXN1,NCAM1,PRIMA1,CADM2,ZNF536,ADGRB3,EPB41L2,STARD13,SCN7A",Schwann,Schwann cell,CL:0002573,glial cell
+Azimuth,Kidney,"GP2,SLC12A1,CASR,CLCN5,PLCB1,CGNL1,ESRRB,UMOD,PKP4,CACNA2D3",Thick Ascending Limb,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,epithelial cell
+Azimuth,Kidney,"PDGFRB,CARMN,NTRK3,CACNA1C,MYH11,ADGRL3,COL25A1,PRKG1,DLC1,PRR16",Vascular Smooth Muscle / Pericyte,"vascular associated smooth muscle cell,pericyte","CL:0000359,CL:0000669","muscle cell,pericyte"
+Azimuth,Kidney,"FBLN5,SVEP1,CDH11,MOXD1,C7,PLCXD3,PLA2G4A,NID1,ATRNL1,SPON1",Fibroblast,fibroblast,CL:0000057,fibroblast
+Azimuth,Kidney,"IKZF1,DOCK2,PTPRC,F13A1,FYB1,AOAH,INPP5D,MRC1,SMAP2,ATP8B4",Immune,,,immune cell
+Azimuth,Kidney,"SLC12A3,CACNA1D,LINC01055,ARHGAP6,FGF13,TRPM6,TRPM7,ESRRG,ATP1A1,LINC01762",Distal Convoluted Tubule,kidney distal convoluted tubule epithelial cell,CL:1000849,epithelial cell
+Azimuth,Kidney,"NPHS2,ADAMTS19,WT1,FMN2,NTNG1,PTPRQ,NPHS1,PTPRO,ZNF804A,ST6GALNAC3",Podocyte,podocyte,CL:0000653,epithelial cell
+Azimuth,Kidney,"MYO9A,LINC01320,FOXP2,PAX8,BICC1,OXR1,PKHD1",Descending Thin Limb,kidney loop of Henle short descending thin limb epithelial cell,CL:4030012,epithelial cell
+Azimuth,Kidney,"LINC01187,SLC4A9,ATP6V1C2,GALNT17,KIT,IL18,CLNK,ATP6V0D2,RHCG,ITGA6",Intercalated,renal intercalated cell,CL:0005010,epithelial cell
+Azimuth,Liver,"FCN3, LYVE1, STAB2, FCGR2B, CLEC4G, CRHBP, FLT4, FCN2, CLEC1B, DNASE1L3",Sinusoidal Endothelial,endothelial cell of sinusoid,CL:0002262,endothelial cell
+Azimuth,Liver,"HIST1H4C, HMGB2, STMN1, MKI67, TUBB, TOP2A, H2AFZ, UBE2C, RRM2, PCNA",Proliferating T/NK,,,t/nk cell
+Azimuth,Liver,"THY1, CCL2, PTGDS, ELN, MFAP4, IGFBP7, FBLN1, COL1A2, ACTA2, IGFBP5",Portal Fibroblast,hepatic portal fibroblast,CL:0009100,fibroblast
+Azimuth,Liver,"IGLL5, MZB1, DERL3, SSR4, FKBP11, XBP1, SEC11C, ITM2C, HERPUD1, CD27",Plasma,plasma cell,CL:0000786,b cell
+Azimuth,Liver,"GZMB, IRF7, GPR183, LILRA4, PLD4, IRF8, BCL11A, ITM2C, PLAC8, UGCG",pDC,plasmacytoid dendritic cell,CL:0000784,dendritic cell
+Azimuth,Liver,"MARCO, CD5L, C1QB, C1QA, C1QC, MS4A7, CD163, FTL, CETP, VCAM1",Noninflammatory Macrophage,,,macrophage/monocyte
+Azimuth,Liver,"CCL4, CCL3, CD160, KLRB1, NKG7, MALAT1, CMC1, XCL1, CD7, TYROBP",NK_CD56bright,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938 ,t/nk cell
+Azimuth,Liver,"FABP1, CYP2E1, HP, ORM1, APOA2, ADH4, TTR, APOA1, APOC1, APOC3",Hepatocyte,hepatocyte,CL:0000182,epithelial cell
+Azimuth,Liver,"ADIRF, NDUFA4L2, CALD1, C11orf96, NOTCH3, FRZB, MYH11, ACTA2, TPM1, GPX3",Myofibroblast,myofibroblast cell,CL:0000186,myofibroblast cell
+Azimuth,Liver,"S100A8, S100A9, FCN1, LYZ, VCAN, S100A12, LST1, S100A4, MNDA, CSTA",Monocyte,monocyte,CL:0000576,macrophage/monocyte
+Azimuth,Liver,"TPSAB1, TPSB2, MALAT1, HPGDS, CTSG, CPA3, VIM, AREG, CD69, CMA1",Mast,mast cell,CL:0000097,granulocyte
+Azimuth,Liver,"C1QC, C1QB, C1QA, GPNMB, FABP5, LIPA, CD68, FTL, HLA-DRA, CD9",Inflammatory Macrophage,inflammatory macrophage,CL:0000863,macrophage/monocyte
+Azimuth,Liver,"IGFBP3, DCN, CXCL14, COLEC11, BGN, CXCL12, ANGPTL6, TMEM56, ECM1, COL3A1",HSC,hematopoietic stem cell,CL:0000037,stem cell
+Azimuth,Liver,"HLA-DPB1, LGALS2, HLA-DQB1, HLA-DQA1, CLEC9A, CPVL, SNX3, TACSTD2, CST3, CD74",DC1,dendritic cell,CL:0000451,dendritic cell
+Azimuth,Liver,"HLA-DPB1, HLA-DPA1, HLA-DRA, HLA-DQB1, HLA-DQA1, CLEC10A, FCER1A, LYZ, CD1C, LST1",DC2,dendritic cell,CL:0000451,dendritic cell
+Azimuth,Liver,"HBB, HBA1, HBA2, HBD, AHSP, ALAS2, CA1, HBM, SLC25A37, SNCA",Erythrocyte,erythrocyte,CL:0000232,erythroid cell
+Azimuth,Liver,"GNLY, NKG7, KLRD1, CMC1, CD7, PRF1, KLRF1, FGFBP2, GZMB, SPON2",NK,natural killer cell,CL:0000623,t/nk cell
+Azimuth,Liver,"CLEC14A, TM4SF1, ID1, PECAM1, DLL4, MGP, SPARCL1, SLC9A3R2, RAMP2, VWF",Vascual Portal Endothelial,,,endothelial cell
+Azimuth,Liver,"ANXA4, KRT7, DEFB1, FXYD2, TM4SF4, KRT19, KRT8, TACSTD2, EGRI1, SPP1",Cholangiocyte,cholangiocyte,CL:1000488,epithelial cell
+Azimuth,Liver,"PRSS23, SELE, RSPO3, LXH6, RAMP3, LIFR, LYPD2, NTS, IFI27, DNASE1L3",Vascual Central Venous Endothelial,,,endothelial cell
+Azimuth,Liver,"CCL5, CD8A, GZMK, CD3D, CD8B, CD3E, CD2, DUSP2, CD69, CST7",CD8 T,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+Azimuth,Liver,"IL7R, KLRB1, LTB, CD69, CD3D, CD2, CD3E, IL32, SPOCK2, GZMK",CD4 T,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+Azimuth,Liver,"MS4A1, CD79A, CD37, CD79B, LTB, CD52, TCL1A, BANK1, VPREB3, POU2F2",B,B cell,CL:0000236,b cell
+Azimuth,Lung,"SPARCL1, SOX17, IFI27, TM4SF1, A2M, CLEC14A, GIMAP7, CRIP2, CLDN5, PECAM1",EC arterial,endothelial cell of artery,CL:1000413,endothelial cell
+Azimuth,Lung,"CD69, CORO1A, CXCR4, CD3E, TRBC2, TRAC, CD2, CCL5, IL32, CD3D",T cell lineage,T cell,CL:0000084,t/nk cell
+Azimuth,Lung,"VWF, MGP, RAMP3, GNG11, RAMP2, SPARCL1, IGFBP7, CLEC14A, ACKR1, PECAM1",EC venous,vein endothelial cell,CL:0002543,endothelial cell
+Azimuth,Lung,"NAPSA, SFTPD, PEBP4, SLC39A8, SLC34A2, CYB5A, MUC1, S100A14, SFTA2, SFTA3",AT2,type II pneumocyte,CL:0002063,epithelial cell
+Azimuth,Lung,"GZMA, CD7, CCL4, CST7, NKG7, GNLY, CTSW, CCL5, GZMB, PRF1",Innate lymphoid cell NK,natural killer cell,CL:0000623,t/nk cell
+Azimuth,Lung,"C1QB, C1QA, HLA-DRB1, AIF1, LYZ, CTSZ, CTSL, FCER1G, C1QC, LAPTM5",Macrophages,macrophage,CL:0000235,macrophage/monocyte
+Azimuth,Lung,"SNTN, FAM229B, TMEM231, C5orf49, C12orf75, GSTA1, C11orf97, RP11-356K23.1, CD24, RP11-295M3.4",Multiciliated lineage,multi-ciliated epithelial cell,CL:0005012,epithelial cell
+Azimuth,Lung,"TSC22D3, ISG20, IGHA1, CORO1A, IGKC, IGLC2, LTB, CD79A, CD37, MS4A1",B cell lineage,B cell,CL:0000236,b cell
+Azimuth,Lung,"KRT19, CEACAM6, WFDC2, TACSTD2, CXCL17, BPIFB1, MUC1, CP, KRT7, PIGR",Secretory,secretory cell,CL:0000151,secretory cell
+Azimuth,Lung,"IFI27, TM4SF1, CLEC14A, CDH5, PECAM1, HYAL2, SPARCL1, EGFL7, CLDN5, AQP1",EC capillary,capillary endothelial cell,CL:0002144,endothelial cell
+Azimuth,Lung,"CCL28, PIP, ZG16B, PIGR, SEC11C, MARCKSL1, SELM, LTF, TCN1, AZGP1",Submucosal Secretory,,,secretory cell
+Azimuth,Lung,"SFTA2, CEACAM6, FXYD3, CAV1, TSPAN13, KRT7, ADIRF, HOPX, AGER, EMP2",AT1,type I pneumocyte,CL:0002062,epithelial cell
+Azimuth,Lung,"PPFIBP1, GNG11, RAMP2, CCL21, MMRN1, IGFBP7, SDPR, TM4SF1, CLDN5, ECSCR",Lymphatic EC mature,,,endothelial cell
+Azimuth,Lung,"AKAP12, TFF3, SDPR, CLDN5, TCF4, TFPI, TIMP3, GNG11, CCL21, IGFBP7",Lymphatic EC differentiating,,,endothelial cell
+Azimuth,Lung,"CORO1A, MS4A6A, ITGB2, GPR183, HLA-DRB1, HLA-DPB1, HLA-DPA1, HLA-DQB1, HLA-DQA1, HLA-DMA",Dendritic cells,dendritic cell,CL:0000451,dendritic cell
+Azimuth,Lung,"S100A16, TUBB, HMGN2, COX20, LSM2, HMGN1, ARPC1A, ECSCR, EID1, MARCKS",Lymphatic EC proliferating,,,endothelial cell
+Azimuth,Lung,"NEXN, ACTG2, LMOD1, IGFBP7, PPP1R14A, DES, FLNA, TPM2, PLN, SELM",Fibromyocytes,,,muscle cell
+Azimuth,Lung,"VWA5A, RGS13, C1orf186, HPGDS, CPA3, GATA2, MS4A2, KIT, TPSAB1, TPSB2",Mast cells,mast cell,CL:0000097,granulocyte
+Azimuth,Lung,"CALD1, CYR61, TAGLN, MT1X, PRELP, TPM2, GPX3, CTGF, IGFBP5, SPARCL1",Myofibroblasts,myofibroblast cell,CL:0000186,myofibroblast cell
+Azimuth,Lung,"FCER1G, S100A9, S100A12, VCAN, COTL1, S100A8, CD14, LST1, FCN1, AIF1",Monocytes,monocyte,CL:0000576,macrophage/monocyte
+Azimuth,Lung,"BGN, DCN, MGP, SPARC, CALD1, LUM, COL6A1, IGFBP7, COL1A2, C1S",Fibroblasts,fibroblast,CL:0000057,fibroblast
+Azimuth,Lung,"PCSK1N, BEX1, SEC11C, CPE, NENF, PRDX2, CHGA, EGR1, FAM46A, SCGN",Neuroendocrine,neuroendocrine cell,CL:0000165,epithelial cell
+Azimuth,Lung,"PHGR1, ASCL3, HEPACAM2, FOXI1, TMPRSS11E, ATP6V1B1, BSND, TFF3, STAC2, MFSD6L",Ionocyte,ionocyte,CL:0005006,epithelial cell
+Azimuth,Lung,"FCN3, EPAS1, RAMP3, CDH5, PODXL, BTNL9, NOSTRIN, FLNB, CDC42EP1, CD81",Capillary,,,blood vessel cell
+Azimuth,Lung,"LST1, LILRB2, AIF1, COTL1, SAT1, FCN1, FCGR3A, RPS19, RHOC, IFITM2",CD16+ Monocyte,,,macrophage/monocyte
+Azimuth,Lung,"KIT, CPA3, TPSAB1, HPGDS, VWA5A, MS4A2, HDC, CD44, GATA2, GRAP2",Basophil/Mast,"basophil,mast cell","CL:0000767,CL:0000097",granulocyte
+Azimuth,Lung,"SFTPA1, SFTPA2, NAPSA, SFTPB, SFTPD, SFTPC, SLC34A2, ABCA3, LAMP3, LPCAT1",Alveolar Epithelial Type 2,type II pneumocyte,CL:0002063,epithelial cell
+Azimuth,Lung,"MZB1, DERL3, SEC11C, XBP1, TNFRSF17, SSR4, POU2AF1, HSP90B1, PRDX4, MANF",Plasma,plasma cell,CL:0000786,b cell
+Azimuth,Lung,"PRF1, NKG7, KLRF1, CD247, GNLY, PYHIN1, KLRD1, SPON2, FCGR3A, GZMB",Natural Killer,natural killer cell,CL:0000623,t/nk cell
+Azimuth,Lung,"CCL21, MMRN1, PROX1, PPFIBP1, TFF3, TBX1, PKHD1L1, IGFBP7, TFPI, TIMP3",Lymphatic,,,immune cell
+Azimuth,Lung,"FBLN1, ADH1B, DCN, LUM, C1S, C1R, SLIT2, C3, CFD, ABLIM1",Fibroblast,fibroblast,CL:0000057,fibroblast
+Azimuth,Lung,"HLA-DPB1, FCGR2B, HLA-DMB, CLEC10A, CSF2RA, MS4A6A, HLA-DQA1, RGS1, GPR183, FPR3",Dendritic,dendritic cell,CL:0000451,dendritic cell
+Azimuth,Lung,"RSPH1, CAPS, FAM92B, CDHR3, CCDC170, SNTN, C20orf85, ZMYND10, DNAH6, FANK1",Ciliated,ciliated cell,CL:0000064,ciliated cell
+Azimuth,Lung,"CD2, IL7R, TRAT1, BCL11B, ITK, CAMK4, CD6, LEF1, MALAT1, MAL",CD4 T,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+Azimuth,Lung,"S100A9, S100A12, S100A8, VCAN, FCN1, CD300E, CTSS, CD99, CSF3R, METTL9",CD14+ Monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte
+Azimuth,Lung,"KRT15, S100A2, KRT17, KRT5, KRT19, PERP, CLDN1, FHL2, DST, ITGA2",Basal,basal cell,CL:0000646,stem cell
+Azimuth,Lung,"MS4A1, BANK1, LINC00926, CD79A, BLK, CD79B, VPREB3, SP140, CD22, ADAM28",B,B cell,CL:0000236,b cell
+Azimuth,Lung,"EMP2, AGER, GPRC5A, LMO7, RTKN2, ARHGEF26, LAMA3, DST, SPOCK2, SCEL",Alveolar Epithelial Type 1,type I pneumocyte,CL:0002062,epithelial cell
+Azimuth,Lung,"CCL5, CD3D, NKG7, GZMH, CD3G, CD8A, GZMA, CD8B, RPS27, RPL34",CD8 T,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+Azimuth,Lung,"SCGB3A2, CYB5A, SFTPB, PIGR, C16orf89, CTSE, KIAA1324, CEACAM6, WFDC2, DSTN",Club,club cell,CL:0000158,epithelial cell
+Azimuth,Lung,"ACP5, C1QA, C1QB, VSIG4, MARCO, OLR1, APOC1, SLCO2B1, GPD1, ITGAX",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+Azimuth,Lung,"PPP1R14B, IRF4, GZMB, IL3RA, IRF7, PLD4, SEC61B, PTPRE, NPC2, TYROBP",Plasmacytoid Dendritic,plasmacytoid dendritic cell,CL:0000784,dendritic cell
+Azimuth,Lung,"COL1A1, COL1A2, COL3A1, COL6A3, ASPN, LTBP1, ITGBL1, CALD1, POSTN, BGN",Myofibroblast,myofibroblast cell,CL:0000186,myofibroblast cell
+Azimuth,Lung,"S100P, FAM3D, CXCL17, GABRP, WFDC2, PSCA, AGR2, TXN, CLIC1, COX5A",Goblet,goblet cell,CL:0000160,epithelial cell
+Azimuth,Lung,"SCX, FAM150A, HSPB3, RAMP1, CSRP1, CNN1, CST5, IGF1, CLU, MET",Fibromyocyte,,,muscle cell
+Azimuth,Lung,"GNLY, CD7, CTSW, CCL5, CD2, ZFP36L2, CXCR4, LGALS1, CEBPB, S100A6",Natural Killer T,,,t/nk cell
+Azimuth,Lung,"TUBB1, CMTM5, ACRBP, PF4, GP9, TMEM40, ITGA2B, GRAP2, GP6, CABP5",Platelet/Megakaryocyte,"platelet,megakaryocyte","CL:0000233,CL:0000556","platelet,megakaryocyte"
+Azimuth,Lung,"GALNT9, ITLN1, WT1, PRG4, MGARP, C3, ALDH1A3, DMKN, SLPI, DSC3",Mesothelial,mesothelial cell,CL:0000077,epithelial cell
+Azimuth,Lung,"WT1, STEAP1, MEDAG, OSR1, CPXM1, FGF7, CCDC71L, HAS1, C3, C7",Lipofibroblast,alveolar type 1 fibroblast cell,CL:4028004,fibroblast
+Azimuth,Lung,"EPAS1, SH3BP5, RALA, PECAM1, WWTR1, GALNT18, ACVRL1, SRSF11, VAT1, IPO7",Capillary Intermediate,,,blood vessel cell
+Azimuth,Lung,"HPGD, APP, EDNRB, EMCN, ESAM, STXBP6, CLDN5, CYP3A5, SOSTDC1, TBX2",Capillary Aerocyte,,,epithelial cell
+Azimuth,Lung,"ZG16B, LYZ, PRB4, PRB3, PRH2, PRR4, TCN1, LPO, PHB, TESC",Serous,serous secreting cell,CL:0000313,secretory cell
+Azimuth,Lung,"TPM2, ACTA2, MYL9, MYH11, CALD1, DSTN, CNN1, DES, PLN, CSRP1",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+Azimuth,Lung,"COX4I2, PDGFRB, TACC1, CALD1, NID1, COL4A1, COL4A2, LAMB1, LAMC3, CHN1",Pericyte,pericyte,CL:0000669,pericyte
+Azimuth,Lung,"VWF, SELP, SLCO2A1, LIFR, PLA1A, PTPRB, PRSS23, CPE, TGM2, SRPX",Vein,,,blood vessel cell
+Azimuth,Lung,"SCGB3A1, BPIFB1, SLPI, LCN2, WFDC2, SAA1, SCGB1A1, RARRES1, MUC5B, MSMB",Mucous,,,mucosal cell
+Azimuth,Lung,"PLVAP, ZNF385D, SPRY1, POSTN, SPARCL1, VWF, EMCN, COL15A1, INHBB, ENPP2",Bronchial Vessel,,,bronchial cell
+Azimuth,Lung,"NUSAP1, TOP2A, HMGB2, BIRC5, H2AFV, SMC4, CENPF, AURKB, UBE2C, KIF2C",Proliferating NK/T,,,t/nk cell
+Azimuth,Lung,"H2AFZ, CDK1, UBE2C, ANLN, BIRC5, NUSAP1, STMN1, TPX2, TYMS, KPNA2",Proliferating Macrophage,,,macrophage/monocyte
+Azimuth,Lung,"DKK2, PTPRB, EFNB2, EPAS1, GJA5, HEY1, ARGLU1, FBLN5, SEMA3G, BMX",Artery,,,blood vessel cell
+Azimuth,Motor Cortex,"SLC1A2, ADGRV1, SLC1A3, GPC5, RNF219.AS1, ARHGAP24, CST3, HPSE2, AQP4, COL5A3",Astrocyte,astrocyte,CL:0000127,astrocyte
+Azimuth,Motor Cortex,"EBF1, ABCG2, CLDN5, FLI1, LEF1, EMCN, IFI27, HLA.E, ADGRL4, CLEC3B",Endothelial cell,endothelial cell,CL:0000115,endothelial cell
+Azimuth,Motor Cortex,"CBLN2, EPHA6, LAMA2, CNTN5, PDZD2, CUX2, RASGRF2, FAM19A1, LINC01378, CA10","Layer 2-3 glutamatergic neuron, intratelencephalon-projecting",L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023047,neuron
+Azimuth,Motor Cortex,"COL5A2, FAM19A1, VAT1L, COL24A1, CBLN2, NRP1, PTCHD1.AS, NRG1, HOMER1, SLC35F3","Layer 5 glutamatergic neuron, extratelencephalon-projecting",L5 extratelencephalic projecting glutamatergic cortical neuron,CL:4023041,neuron
+Azimuth,Motor Cortex,"FSTL4, CNTN5, RORB, FSTL5, IL1RAPL2, CHN2, TOX, CPNE4, CADPS2, POU6F2","Layer 5 glutamatergic neuron, intratelencephalon-projecting",L5 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023049,neuron
+Azimuth,Motor Cortex,"TSHZ2, NPSR1.AS1, HTR2C, ITGA8, ZNF385D, ASIC2, CDH6, CRYM, NXPH2, CPNE4","Layer 5-6 glutamatergic neuron, near-projecting",L5/6 near-projecting glutamatergic neuron of the primary motor cortex,CL:4023043,neuron
+Azimuth,Motor Cortex,"COLEC12, ITIH5, COL1A2, TBX18, EBF1, C7, COL6A2, SRPX2, FLVCR2, FMO2",vascular lepotomeningeal cell,vascular leptomeningeal cell,CL:4023051,fibroblast
+Azimuth,Motor Cortex,"GALNTL6, LRP1B, VIP, GRM7, KCNT2, THSD7A, ERBB4, SYNPR, ADARB2, SLC24A3",Vip+ GABAergic neuron,vip GABAergic cortical interneuron,CL:4023016,neuron
+Azimuth,Motor Cortex,"VCAN, PDGFRA, OLIG1, SMOC1, COL9A1, STK32A, BCAS1, FERMT1, BCHE, ZCCHC24",oligodendrocyte precursor cell,oligodendrocyte precursor cell,CL:0002453,progenitor cell
+Azimuth,Motor Cortex,"GRIK1, RALYL, SST, TRHDE, GRID2, NXPH1, COL25A1, SLC8A1, SOX6, ST6GALNAC5",Sst+ GABAergic neuron,sst GABAergic cortical interneuron,CL:4023017,neuron
+Azimuth,Motor Cortex,"CNR1, SLC8A1, ASIC2, CXCL14, MAML3, ADARB2, NPAS3, CNTN5, FSTL5, SNCG",Sncg+ GABAergic neuron,sncg GABAergic cortical interneuron,CL:4023015,neuron
+Azimuth,Motor Cortex,"ADAMTS17, ERBB4, DPP10, ZNF804A, MYO16, BTBD11, GRIA4, SLIT2, SDK1, PVALB",Pvalb+ GABAergic neuron,pvalb GABAergic cortical interneuron,CL:4023018,neuron
+Azimuth,Motor Cortex,"PLP1, ST18, CTNNA3, MBP, MOBP, RNF220, NCKAP5, ENPP2, QKI, SLC44A1",oligodendrocyte,oligodendrocyte,CL:0000128,oligodendrocyte
+Azimuth,Motor Cortex,"DOCK8, P2RY12, APBB1IP, FYB, PTPRC, TBXAS1, CX3CR1, BLNK, SLCO2B1, CSF1R",microglia / perivascular macrophage,"microglial cell,perivascular macrophage","CL:0000129,CL:0000881","microglia,macrophage/monocyte"
+Azimuth,Motor Cortex,"FGF13, PTPRT, PRELID2, GRIA4, RELN, PTCHD4, EYA4, MYO16, FBXL7, LAMP5",Lamp5+ GABAergic neuron,lamp5 GABAergic cortical interneuron,CL:4023011,neuron
+Azimuth,Motor Cortex,"HS3ST4, KCNMB2, MDFIC, C10orf11, NTM, CDH9, MARCH1, TLE4, FOXP2, KIAA1217",Layer 6b glutamatergic neuron,L6b glutamatergic cortical neuron,CL:4023038,neuron
+Azimuth,Motor Cortex,"NPY, FAM46A, STAC, OTOF, NPY2R, CRHBP, ANKRD34B, NOS1, SST, CHODL",Sst+ Chodl+ GABAergic neuron,sst chodl GABAergic cortical interneuron,CL:4023121,neuron
+Azimuth,Motor Cortex,"THEMIS, RNF152, NTNG2, STK32B, KCNMB2, GAS2L3, OLFML2B, POSTN, B3GAT2, NR4A2","Layer 6 Car3+ glutamatergic neuron, intratelencephalon-projecting",,,neuron
+Azimuth,Motor Cortex,"ADAMTSL1, KIAA1217, SORCS1, HS3ST4, TRPM3, TOX, SEMA3E, EGFEM1P, MEIS2, SEMA5A","Layer 6 glutamatergic neuron, corticothalamic-projecting",L6 corticothalamic-projecting glutamatergic cortical neuron,CL:4023042,neuron
+Azimuth,Motor Cortex,"PTPRK, PDZRN4, CDH9, THEMIS, FSTL5, CDH13, CDH12, CBLN2, LY86.AS1, MLIP","Layer 6 glutamatergic neuron, intratelencephalon-projecting",L6 intratelencephalic projecting glutamatergic neuron of the primary motor cortex,CL:4023050,neuron
+Azimuth,PBMC,"MKI67, KLRF1, TYMS, TRDC, TOP2A, FCER1G, PCLAF, CD247, CLSPN, ASPM",Proliferating Natural Killer,,,t/nk cell
+Azimuth,PBMC,"MS4A1, COCH, AIM2, BANK1, SSPN, CD79A, TEX9, RALGPS2, TNFRSF13C, LINC01781",Memory B cell,memory B cell,CL:0000787,b cell
+Azimuth,PBMC,"IGHM, IGHD, CD79A, IL4R, MS4A1, CXCR4, BTG1, TCL1A, CD79B, YBX3",Naive B cell,naive B cell,CL:0000788,b cell
+Azimuth,PBMC,"IGHA2, MZB1, TNFRSF17, DERL3, TXNDC5, TNFRSF13B, POU2AF1, CPNE5, HRASLS2, NT5DC2",Plasmablast,plasmablast,CL:0000980,b cell
+Azimuth,PBMC,"GZMH, CD4, FGFBP2, ITGB1, GZMA, CST7, GNLY, B2M, IL32, NKG7",CD4+ Cytotoxic T,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,t/nk cell
+Azimuth,PBMC,"TCF7, CD4, CCR7, IL7R, FHIT, LEF1, MAL, NOSIP, LDHB, PIK3IP1",CD4+ Naive T,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+Azimuth,PBMC,"MKI67, TOP2A, PCLAF, CENPF, TYMS, NUSAP1, ASPM, PTTG1, TPX2, RRM2",CD4+ Proliferating T,,,t/nk cell
+Azimuth,PBMC,"IL7R, CCL5, FYB1, GZMK, IL32, GZMA, KLRB1, TRAC, LTB, AQP3",CD4+ Effector Memory T,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,t/nk cell
+Azimuth,PBMC,"RTKN2, FOXP3, AC133644.2, CD4, IL2RA, TIGIT, CTLA4, FCRL3, LAIR2, IKZF2",Regulatory T,regulatory T cell,CL:0000815,t/nk cell
+Azimuth,PBMC,"CD8B, S100B, CCR7, RGS10, NOSIP, LINC02446, LEF1, CRTAM, CD8A, OXNAD1",CD8+ Naive T,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,t/nk cell
+Azimuth,PBMC,"MKI67, CD8B, TYMS, TRAC, PCLAF, CD3D, CLSPN, CD3G, TK1, RRM2",CD8+ Proliferating T,,,t/nk cell
+Azimuth,PBMC,"CD8B, ANXA1, CD8A, KRT1, LINC02446, YBX3, IL7R, TRAC, NELL2, LDHB",CD8+ Central Memory T,"central memory CD8-positive, alpha-beta T cell",CL:0000907,t/nk cell
+Azimuth,PBMC,"CCL5, GZMH, CD8A, TRAC, KLRD1, NKG7, GZMK, CST7, CD8B, TRGC2",CD8+ Effector Memory T,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,t/nk cell
+Azimuth,PBMC,"PPP1R14A, LILRA4, AXL, IL3RA, SCT, SCN9A, LGMN, DNASE1L3, CLEC4C, GAS6",AXL+ Dendritic Cell,,,dendritic cell
+Azimuth,PBMC,"CLEC9A, DNASE1L3, C1orf54, IDO1, CLNK, CADM1, FLT3, ENPP1, XCR1, NDRG2",Conventional Dendritic Cell 1,conventional dendritic cell,CL:0000990,dendritic cell
+Azimuth,PBMC,"FCER1A, HLA-DQA1, CLEC10A, CD1C, ENHO, PLD4, GSN, SLC38A1, NDRG2, AFF3",Conventional Dendritic Cell 2,conventional dendritic cell,CL:0000990,dendritic cell
+Azimuth,PBMC,"ITM2C, PLD4, SERPINF1, LILRA4, IL3RA, TPM2, MZB1, SPIB, IRF4, SMPD3",Plasmacytoid Dendritic Cell,plasmacytoid dendritic cell,CL:0000784,dendritic cell
+Azimuth,PBMC,"S100A9, CTSS, S100A8, LYZ, VCAN, S100A12, IL1B, CD14, G0S2, FCN1",CD14+ Monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte
+Azimuth,PBMC,"KLRB1, NKG7, GZMK, IL7R, SLC4A10, GZMA, CXCR6, PRSS35, RBM24, NCR3",Mucosal associated invariant T,mucosal invariant T cell,CL:0000940,t/nk cell
+Azimuth,PBMC,"TRDC, TRGC1, TRGC2, KLRC1, NKG7, TRDV2, CD7, TRGV9, KLRD1, KLRG1",gamma-delta T,gamma-delta T cell,CL:0000798,t/nk cell
+Azimuth,PBMC,"PTPN3, MIR4422HG, NUCB2, CAV1, DTHD1, GZMA, MYB, FXYD2, GZMK, AC004585.1",Double-negative T,double negative thymocyte,CL:0002489,t/nk cell
+Azimuth,PBMC,"PPBP, PF4, NRGN, GNG11, CAVIN2, TUBB1, CLU, HIST1H2AC, RGS18, GP9",Platelet,platelet,CL:0000233,platelet
+Azimuth,PBMC,"KIT, TRDC, TTLL10, LINC01229, SOX4, KLRB1, TNFRSF18, TNFRSF4, IL1R1, HPGDS",Innate Lymphoid Cell,innate lymphoid cell,CL:0001065,innate lymphoid cell
+Azimuth,PBMC,"CDKN1C, FCGR3A, PTPRC, LST1, IER5, MS4A7, RHOC, IFITM3, AIF1, HES4",CD16+ Monocyte,,,macrophage/monocyte
+Azimuth,PBMC,"SPINK2, PRSS57, CYTL1, EGFL7, GATA2, CD34, SMIM24, AVP, MYB, LAPTM4B",Hematopoietic stem and progenitor cell,hematopoietic stem cell,CL:0000037,stem cell
+Azimuth,PBMC,"HBD, HBM, AHSP, ALAS2, CA1, SLC4A1, IFIT1B, TRIM58, SELENBP1, TMCC2",Erythroid cell,erythroid lineage cell,CL:0000764,erythroid cell
+Azimuth,PBMC,"XCL2, FCER1G, SPINK2, TRDC, KLRC1, XCL1, SPTSSB, PPP1R9A, NCAM1, TNFRSF11A",CD56-bright Natural Killer,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,t/nk cell
+Azimuth,PBMC,"GNLY, TYROBP, NKG7, FCER1G, GZMB, TRDC, PRF1, FGFBP2, SPON2, KLRF1",CD56-dim Natural Killer,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,t/nk cell
+Azimuth,PBMC,"IL7R, TMSB10, CD4, ITGB1, LTB, TRAC, AQP3, LDHB, IL32, MAL",CD4+ Central Memory T,"central memory CD4-positive, alpha-beta T cell",CL:0000904,t/nk cell
+Azimuth,PBMC,"MS4A1, TNFRSF13B, IGHM, IGHD, AIM2, CD79A, LINC01857, RALGPS2, BANK1, CD79B",Intermediate B cell,transitional stage B cell,CL:0000818,b cell
+Azimuth,Pancreas,"RGS5, C11orf96, FABP4, CSRP2, IL24, ADIRF, NDUFA4L2, GPX3, IGFBP4, ESAM",quiescent stellate,,,fibroblast
+Azimuth,Pancreas,"ACP5, APOE, HLA-DRA, TYROBP, LAPTM5, SDS, FCER1G, C1QC, C1QB, SRGN",immune,,,immune cell
+Azimuth,Pancreas,"REG1A, PRSS1, CTRB2, CTRB1, REG1B, CELA3A, PRSS2, REG3A, CPA1, CLPS",acinar,acinar cell,CL:0000622,epithelial cell
+Azimuth,Pancreas,"IAPP, INS, DLK1, INS-IGF2, G6PC2, HADH, ADCYAP1, GSN, NPTX2, C12orf75",beta islet cell,type B pancreatic cell,CL:0000169,epithelial cell
+Azimuth,Pancreas,"GCG, TTR, PPP1R1A, CRYBA2, TM4SF4, MAFB, GC, GPX3, PCSK2, PEMT",alpha islet cell,pancreatic A cell,CL:0000171,epithelial cell
+Azimuth,Pancreas,"SST, RBP4, SERPINA1, RGS2, PCSK1, SEC11C, HHEX, LEPR, MDK, LY6H",delta islet cell,pancreatic D cell,CL:0000173,epithelial cell
+Azimuth,Pancreas,"SPP1, MMP7, IGFBP7, KRT7, ANXA4, SERPINA1, LCN2, CFTR, KRT19, SERPING1",ductal,pancreatic ductal cell,CL:0002079,epithelial cell
+Azimuth,Pancreas,"BHMT, VSTM2L, PHGR1, TM4SF5, ANXA13, ASGR1, DEFB1, GHRL, COL22A1, OLFML3",epsilon islet cell,pancreatic epsilon cell,CL:0005019,secretory cell
+Azimuth,Pancreas,"COL1A1, COL1A2, COL6A3, COL3A1, TIMP3, TIMP1, CTHRC1, SFRP2, BGN, LUM",activated stellate,,,fibroblast
+Azimuth,Pancreas,"NGFR, CDH19, UCN2, SOX10, S100A1, PLP1, TSPAN11, WNT16, SOX2, TFAP2A",schwann,Schwann cell,CL:0002573,glial cell
+Azimuth,Pancreas,"PLVAP, RGCC, ENG, PECAM1, ESM1, SERPINE1, CLDN5, STC1, MMP1, GNG11",endothelial,endothelial cell,CL:0000115,endothelial cell
+Azimuth,Pancreas,"PPY, AQP3, MEIS2, ID2, GPC5-AS1, CARTPT, PRSS23, ETV1, PPY2, TUBB2A",gamma islet cell,pancreatic PP cell,CL:0002275,epithelial cell
+Azimuth,Tonsil,"CLEC9A, ZNF366, CLEC10A, ST18, RTN1, LAD1, AC090559.1, CPVL, CCDC26, SHTN1",Dendritic,dendritic cell,CL:0000451,dendritic cell
+Azimuth,Tonsil,"MIR155HG, SLAMF1, MYC, CD83, HSP90AB1, DDX21, EGR3, FCER2, REL, SYNGR2",Activated Naive B,,,b cell
+Azimuth,Tonsil,"CHGB, KSR2, IL21, GNG4, CD40LG, ICOS, CTLA4, PDCD1, DRAIC, ICA1",CD4 T,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+Azimuth,Tonsil,"GZMH, CXCR6, TRGC2, ITGA1, KLRG1, MIAT, CD8A, CCL5, PPP2R2B, GPR171",CD8 T,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+Azimuth,Tonsil,"E2F8, CDCA2, NUGGC, CLSPN, ANLN, MYBL1, FAM111B, KIF4A, NUF2, GTSE1",Cycling B,,,b cell
+Azimuth,Tonsil,"S100A1, ERH, NPM1, C1QBP, MIF, CXCL14, PRMT1, RPLP0, YBX1, POLR2I",Cycling follicular dendritic,,,dendritic cell
+Azimuth,Tonsil,"CIT, KPNA2, CSF1R, POLQ, CKAP2L, KIF14, AURKA, MMP9, KIF15, AURKB",Cycling myeloid,,,myeloid cell
+Azimuth,Tonsil,"IL21, CTLA4, CORO1B, MAF, KIF15, SMC3, RRM2, PDCD1, SPOCK2, ICOS",Cycling T,,,t/nk cell
+Azimuth,Tonsil,"FGFBP2, PTPN3, LAYN, FASLG, IL19, CAV1, MIR4422HG, DTHD1, PRDM8, CD5",Double negative T,double negative thymocyte,CL:0002489,t/nk cell
+Azimuth,Tonsil,"ADGRG3, FCGR3B, MCEMP1, ORM1, CXCL2, PI3, AQP9, SLC11A1, CXCL8, G0S2",Granulocytes,granulocyte,CL:0000094,granulocyte
+Azimuth,Tonsil,"AL139379.1, NR2F1, NR2F2-AS1, OSMR-AS1, SERPINA3, LINC02251, TCIM, GABRG3, CACNA2D1, DZIP1",Follicular dendritic,follicular dendritic cell,CL:0000442,dendritic cell
+Azimuth,Tonsil,"SERPINA9, SUGCT, LOXL2, MEF2B, ELL3, CD40, SYBU, DNAJC10, SUSD3, AC012368.1",Germinal center B,germinal center B cell,CL:0000844,b cell
+Azimuth,Tonsil,"KRT81, KRT86, SLC4A10, SH2D1B, RORC, IL23R, LIF, TNFSF11, NCR1, XCL1",Innate lymphoid,innate lymphoid cell,CL:0001065,innate lymphoid cell
+Azimuth,Tonsil,"TAL1, AL157895.1, TPSD1, ADCYAP1, IL1RL1, CDK15, HDC, GCSAML, MLPH, CALB2",Mast,mast cell,CL:0000097,granulocyte
+Azimuth,Tonsil,"FCRL4, TNFRSF13B, BHLHE41, CLECL1, FCGR2B, SP110, SP140, CCR6, TLR10, FCRL2",Memory B,memory B cell,CL:0000787,b cell
+Azimuth,Tonsil,"AC104809.2, CD163, SULT1C2, VCAN, FPR3, CD163L1, TCN2, STAB1, VNN1, RTN1",Monocyte/macrophage,"monocyte,macrophage","CL:0000576,CL:0000235",macrophage/monocyte
+Azimuth,Tonsil,"ABCB4, HVCN1, LINC00926, LINC02397, SP100, VAV3-AS1, COL19A1, RABEP2, FCER2, IGHD",Naive B,naive B cell,CL:0000788,b cell
+Azimuth,Tonsil,"CHRM3-AS2, TOMM7, RPL30, ITGA6, LDHB, NOSIP, RPS25, RPS14, RPS15A, RPL11",Naive CD4 T,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,t/nk cell
+Azimuth,Tonsil,"LINC02446, CD8B, LRRN3, LDLRAP1, CD8A, CCR7, NELL2, PRKCQ-AS1, RCAN3, RPS12",Naive CD8 T,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,t/nk cell
+Azimuth,Tonsil,"IGKV1-6, IGHV3-21, IGKV1-39, IGLV3-27, IGLV3-19, IGLV4-69, IGKV3-15, IGHV1-18, IGHV4-34, IGLV2-23",Plasma,plasma cell,CL:0000786,b cell
+Azimuth,Tonsil,"AC097375.1, CYYR1, C5orf64, KCNK17, KCNK10, LCNL1, LINC01478, ADGRB3, RASD1, LINC02207",Plasmacytoid dendritic,plasmacytoid dendritic cell,CL:0000784,dendritic cell
+Azimuth,Tonsil,"RAG2, SPTA1, ARPP21, VPREB1, RAG1, HRK, IGLL1, MME, ACSM3, AEBP1",preB/T,,,leukocyte
+Azimuth,Tonsil,"IL36A, C5orf66-AS1, MAB21L4, RNF39, FUT3, SPRR1A, C1orf116, KLK11, RNASE7, PADI1",Epithelial,epithelial cell,CL:0000066,epithelial cell
+Azimuth,Tonsil,"KIR2DL4, SPTSSB, SH2D1B, ZMAT4, KLRC1, KLRC2, KLRC3, NCR1, NCAM1, XCL2",Natural killer,natural killer cell,CL:0000623,t/nk cell

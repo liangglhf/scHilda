@@ -1,0 +1,100 @@
+dataset,tissue,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype
+HCA,Breast,"ACACB, FASN, LPIN1, MLXIPL, EBF1, CTIF, PTPRG, FOXO1, ACSL1, PLIN4",Adipocyte,fat cell,CL:0000136,fat cell
+HCA,Breast,"LDB2, ST6GALNAC3, SEMA3A, PPFIBP1, TSHZ2, TFPI, PKHD1L1, PLPP1, RALGAPA2, KALRN",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+HCA,Breast,"DCLK1, DLC1, COL6A2, NOVA1, COL6A1, PTPRG, SLIT3, SVEP1, CBLB, RBMS3",Fibroblast,fibroblast,CL:0000057,fibroblast
+HCA,Breast,"DST, TSHZ2, KRT17, MYH11, DMD, ACTA2, CALD1, ACTN1, TPM1, TPM2",Myoepithelial (basal),myoepithelial cell,CL:0000185,epithelial cell
+HCA,Breast,"LDB2, ST6GALNAC3, TCF4, MECOM, PTPRM, PITPNC1, EGFL7, PECAM1, ABLIM1, VWF",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell
+HCA,Breast,"TRPS1, NEBL, ERBB4, NAALADL2, AFF3, ELF3, KRT15, KRT19, THSD4, SHANK2",Epithelial cell (luminal),,,epithelial cell
+HCA,Breast,"C10orf11, DOCK4, PLXDC2, RNF149, FMN1, STAB1, CTSB, ZEB2, FRMD4B, RAB31",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+HCA,Breast,"PRKG1, LPP, KCNAB1, RGS6, CALD1, RBPMS, SLIT3, ACTA2, PTPRG, DLC1",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+HCA,Esophagus,"PRKG1, LPP, EBF1, RBPMS, CALD1, DMD, CACNA1C, HIP1, RCAN2, SLIT3",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+HCA,Esophagus,"SORBS2, NAALADL2, GMDS, RUNX1, CHST9, CHPT1, NFIB, PPP1R9A, ERBB4, C4orf19",Mucous cell,,,mucosal cell
+HCA,Esophagus,"LAMA2, RBMS3, EBF1, PID1, FBLN1, SDK1, RORA, DCN, FGF14, FBN1",Fibroblast,fibroblast,CL:0000057,fibroblast
+HCA,Esophagus,"KRT15, THSD4, ANK3, SLC7A1, SOX6, ABCC3, BCL11A, TP63, C9orf3, SVIL",Epithelial cell (basal),basal cell,CL:0000646,stem cell
+HCA,Esophagus,"PTPRM, LDB2, PTPRG, PECAM1, PLCB1, MCTP1, ENG, MKL2, ELMO1, PTPRB",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell
+HCA,Esophagus,"NRXN1, NRXN3, CADM2, CDH19, ADGRB3, SCN7A, FRMD4A, NCAM1, LGI4, XKR4",Schwann cell,Schwann cell,CL:0002573,glial cell
+HCA,Esophagus,"ERBB4, NRXN3, ATP8A2, DACH2, KCNIP4, NELL1, SDK1, PTPRD, PDE4B, CCER2",Neuroendocrine,neuroendocrine cell,CL:0000165,epithelial cell
+HCA,Esophagus,"MYH11, LPP, SORBS1, CACNB2, TPM1, RBPMS, ACTG2, DMD, CALD1, PRUNE2",Myofibroblast,myofibroblast cell,CL:0000186,myofibroblast cell
+HCA,Esophagus,"SLC8A1, TBXAS1, MS4A6A, FMN1, C10orf11, ZEB2, DPYD, SAT1, AOAH, MYO1F",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+HCA,Esophagus,"CELF2, ARHGAP15, ANKRD44, SKAP1, MBNL1, CHST11, IKZF1, THEMIS, CD96, PTPRC",Immune (T cell),T cell,CL:0000084,t/nk cell
+HCA,Esophagus,"CD247, ANKRD44, CELF2, PIP4K2A, PTPRC, SKAP1, CARD11, FAM65B, ITGAL, TMC8",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell
+HCA,Esophagus,"SLC8A1, ANKRD44, CD74, HLA-DRB1, JAML, ELMO1, ATP8B4, MS4A6A, TBXAS1, ADAM28",Immune (DC),dendritic cell,CL:0000451,dendritic cell
+HCA,Esophagus,"ANKRD44, BANK1, ARHGAP24, AFF3, ARHGAP15, FCHSD2, PRKCB, CCND3, BLK, INPP5D",Immune (B cell),B cell,CL:0000236,b cell
+HCA,Esophagus,"KRT13, DSG3, RHCG, BTBD11, KIAA1217, FRMD6, PARD3, RAB10, LY6D, RBM47",Epithelial cell (suprabasal),,,epithelial cell
+HCA,Esophagus,"KRT13, RHCG, SPRR3, EMP1, S100A9, CRNN, S100A8, PPL, ECM1, IL1RN",Epithelial cell (squamous),squamous epithelial cell,CL:0000076,epithelial cell
+HCA,Esophagus,"PKHD1L1, PPFIBP1, ST6GALNAC3, TSHZ2, KALRN, MMRN1, TFPI, CD36, EFNA5, PGM5",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+HCA,Esophagus,"TPSB2, SLC24A3, KIT, TPSAB1, SYTL3, CPA3, C10orf11, IL18R1, ARHGAP15, FER",Immune (mast cell),mast cell,CL:0000097,granulocyte
+HCA,Heart,"DLC1, PRKG1, PLA2G5, PDGFRB, SPARCL1, LPP, RBMS3, EPS8, CALD1, FRMD3",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+HCA,Heart,"LAMA2, DCN, NEGR1, ABCA6, ABCA8, CDH19, RORA, ACSM3, EBF1, GSN",Fibroblast,fibroblast,CL:0000057,fibroblast
+HCA,Heart,"ST6GALNAC3, LDB2, PTPRM, VWF, PTPRB, PTPRG, MECOM, ANO2, EMCN, EPAS1",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell
+HCA,Heart,"NRXN1, NRXN3, CDH19, ANK3, XKR4, CADM2, NCAM2, GPM6B, SCN7A, ADGRB3",Schwann cell,Schwann cell,CL:0002573,glial cell
+HCA,Heart,"DES, MB, TPM1, MYL2, MYL3, TCAP, MYH7, TNNC1, TNNT2, TNNI3","Myocyte (cardiac, cytoplasmic)",cardiac muscle cell,CL:0000746,muscle cell
+HCA,Heart,"RYR2, TTN, SLC8A1, CTNNA3, LDB3, CACNA1C, DMD, RBM20, NEXN, MLIP",Myocyte (cardiac),cardiac muscle cell,CL:0000746,muscle cell
+HCA,Heart,"SKAP1, ARHGAP15, B2M, FAM65B, CCND3, PTPRC, ANKRD44, PARP8, THEMIS, BCL2",Immune (T cell),T cell,CL:0000084,t/nk cell
+HCA,Heart,"B2M, CD247, SKAP1, GNLY, NKG7, KLRD1, CCND3, FAM49B, PTPRC, CCL4",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell
+HCA,Heart,"DPYD, ZEB2, FKBP5, TBXAS1, RBM47, SSH2, SRGN, MAML3, GNAQ, CELF2",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+HCA,Heart,"ANGPTL1, PRKCB, BANK1, AFF3, ST6GAL1, ANKRD44, ARHGAP15, SMCHD1, DOCK10, CD74",Immune (B cell),B cell,CL:0000236,b cell
+HCA,Heart,"PKHD1L1, MMRN1, CCL21, PPFIBP1, TFPI, EFNA5, KALRN, ST6GALNAC3, MAGI1, SMAD1",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+HCA,Heart,"ACACB, PPARG, EBF1, GPAM, MGST1, GHR, PDE3B, SIK2, ACSL1, PRKAR2B",Adipocyte,fat cell,CL:0000136,fat cell
+HCA,Heart,"TPSB2, TPSAB1, NTM, SMYD3, SLC24A3, CPA3, MS4A2, TNIK, MCTP2, CD69",Immune (mast cell),mast cell,CL:0000097,granulocyte
+HCA,Lung,"ARHGAP15, PARP8, SKAP1, THEMIS, FKBP5, PTPRC, FYN, BCL2, SYTL3, ITK",Immune (T cell),T cell,CL:0000084,t/nk cell
+HCA,Lung,"PLXDC2, ZEB2, SLC8A1, TBXAS1, FKBP5, SRGN, CD74, PIK3R5, CTSB, CHST11",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+HCA,Lung,"PRKG1, SLIT2, LSAMP, RBMS3, LAMA2, ARHGAP6, ROBO2, RORA, PLEKHH2, PLXDC2",Fibroblast,fibroblast,CL:0000057,fibroblast
+HCA,Lung,"LDB2, EPAS1, TIMP3, PECAM1, PTPRB, TCF4, CALCRL, PTPRM, EGFL7, ST6GALNAC3",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell
+HCA,Lung,"TPSB2, TPSAB1, SLC24A3, ARHGAP15, IL18R1, SAMSN1, KIT, SRGN, SYTL3, FER",Immune (mast cell),mast cell,CL:0000097,granulocyte
+HCA,Lung,"PLXDC2, SLC11A1, PPARG, MSR1, FMNL2, RNF149, TFRC, DOCK8, GPCPD1, ZEB2",Immune (alveolar macrophage),alveolar macrophage,CL:0000583,macrophage/monocyte
+HCA,Lung,"AOAH, SKAP1, ARHGAP15, B2M, CD247, FYN, KLRD1, PRKCH, PIP4K2A, PARP8",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell
+HCA,Lung,"PRKG1, CALD1, LPP, INPP4B, CACNA1C, EBF1, TPM1, MYH11, DMD, ACTA2",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+HCA,Lung,"SFTPB, MACROD2, KIAA1217, NEDD4L, MECOM, SCGB3A2, ERBB4, BMPR1B, KIAA1324, CDK14",Epithelial cell (club),club cell,CL:0000158,epithelial cell
+HCA,Lung,"C4orf22, AGBL4, LRRIQ1, DNAH12, HYDIN, STK33, TMEM232, CDHR3, CFAP54, DNAH7",Epithelial cell (ciliated),ciliated epithelial cell,CL:0000067,epithelial cell
+HCA,Lung,"MACROD2, EYA2, RBMS3, CACHD1, GLIS3, TP63, FAF1, XPR1, SSBP2, KRT17",Epithelial cell (basal),basal cell,CL:0000646,stem cell
+HCA,Lung,"ST6GAL1, MEF2C, RALGPS2, ARHGAP15, FCHSD2, PLCG2, FBXW7, DENND5B, CREB3L2, PDK1",Immune (B cell),B cell,CL:0000236,b cell
+HCA,Lung,"ZNF385B, LRRK2, MACROD2, SFTPB, PDE4D, SFTPC, ANK3, ERBB4, AUTS2, ABCA3",Epithelial cell (alveolar type II),type II pneumocyte,CL:0002063,epithelial cell
+HCA,Lung,"NCKAP5, EMP2, LIMCH1, KHDRBS2, RBMS3, NTM, LAMA3, LMO7, RAB11FIP1, ST6GALNAC5",Epithelial cell (alveolar type I),type I pneumocyte,CL:0002062,epithelial cell
+HCA,Lung,"PKHD1L1, KALRN, ST6GALNAC3, PPFIBP1, MMRN1, CD36, TSHZ2, SEMA3A, LDB2, FBXL7",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+HCA,Prostate,"PLXDC2, SAT1, DPYD, FMN1, CELF2, SLC8A1, TBXAS1, ZEB2, C10orf11, ARHGAP15",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+HCA,Prostate,"THSD4, PCDH7, KANK1, ABCC3, NTN4, EGFR, CDH13, RBMS3, MECOM, MAST4",Epithelial cell (basal),basal cell,CL:0000646,stem cell
+HCA,Prostate,"VWF, PECAM1, TCF4, ST6GALNAC3, SPARCL1, PTPRB, PTPRM, ENG, FLT1, SLCO2A1",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell
+HCA,Prostate,"NRXN1, NCAM2, NRXN3, CDH19, GPM6B, EHBP1, STARD13, SCN7A, CHL1, ADGRB3",Schwann cell,Schwann cell,CL:0002573,glial cell
+HCA,Prostate,"PRKG1, EBF1, CALD1, PTPRG, IGFBP7, TIMP3, SLIT3, DLC1, LPP, EPS8",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+HCA,Prostate,"SYT1, NRG1, SDK1, PEX5L, RIMS2, RGS7, NRXN1, CACNA1A, KCNB2, TPH1",Neuroendocrine,neuroendocrine cell,CL:0000165,epithelial cell
+HCA,Prostate,"MYH11, ACTG2, TAGLN, ACTA2, FLNA, ACTB, MYL9, DES, CALD1, TPM2",Myocyte (smooth muscle),smooth muscle cell,CL:0000192,muscle cell
+HCA,Prostate,"SLC24A3, AKAP13, KIT, IL18R1, FER, SRGN, SAMSN1, RHOH, TPSB2, SYTL3",Immune (mast cell),mast cell,CL:0000097,granulocyte
+HCA,Prostate,"PARP8, FYN, CELF2, PTPRC, SYTL3, CBLB, ANKRD44, BTG1, AOAH, PIP4K2A",Immune (T cell),T cell,CL:0000084,t/nk cell
+HCA,Prostate,"PARP8, PIP4K2A, AOAH, CELF2, PTPRC, CD247, CHST11, KLRD1, ARHGAP15, HLA-B",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell
+HCA,Prostate,"ANKRD44, PRKCB, ARHGAP15, ARHGAP24, BANK1, SP100, MGAT5, AFF3, BLK, CELF2",Immune (B cell),B cell,CL:0000236,b cell
+HCA,Prostate,"FBLN1, LAMA2, IGFBP5, COL1A2, RORA, MGP, SLIT2, COL6A2, GPC6, DCN",Fibroblast,fibroblast,CL:0000057,fibroblast
+HCA,Prostate,"KLK3, KLK2, PLPP1, CPNE4, ACPP, BMPR1B, MSMB, AMD1, AFF3, MYBPC1",Epithelial cell (luminal),,,epithelial cell
+HCA,Prostate,"PTPRK, ELF3, RARRES1, ETV6, MAML2, NAALADL2, NBEA, ZFP36L1, KIAA1217, CP",Epithelial cell (club),club cell,CL:0000158,epithelial cell
+HCA,Prostate,"KRT19, MECOM, ROBO1, CPA6, PCDH7, FRMD6, KLF5, AQP3, PARD3, COL4A5",Epithelial cell (Hillock),hillock cell,CL:4030024,epithelial cell
+HCA,Prostate,"MMRN1, TFPI, SEMA3A, RELN, PPFIBP1, SASH1, GPM6A, CNTNAP3B, ZFPM2, PKHD1L1",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+HCA,Skeletal muscle,"MB, DES, ACTA1, TNNT1, CRYAB, CA3, TCAP, TNNC1, MYH7, TNNI1","Myocyte (sk. muscle, cytoplasmic)",muscle cell,CL:0000187,muscle cell
+HCA,Skeletal muscle,"PTPRM, ST6GALNAC3, TACC1, LDB2, MECOM, DOCK9, ANO2, B2M, SPARCL1, VWF",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell
+HCA,Skeletal muscle,"LAMA2, ANK3, CDH13, DOCK9, PLCB4, SLC38A1, TMEM233, FAM20A, GGT7, PRKAR1A",Myocyte (NMJ-rich),,,muscle cell
+HCA,Skeletal muscle,"LPP, ACTA2, RBPMS, PRKG1, CALD1, CACNA1C, MYH11, PDGFRB, KCNAB1, SPARCL1",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+HCA,Skeletal muscle,"IL1RAPL1, GPM6B, DLC1, SORCS1, CDH19, LRRC7, PRKCA, EHBP1, PMP22, VIM",Schwann cell,Schwann cell,CL:0002573,glial cell
+HCA,Skeletal muscle,"LAMA2, CADM2, PTPRG, RBMS3, TLN2, PON2, MUSK, SPARCL1, PAX7, PLXDC2",Satellite cell,skeletal muscle satellite cell,CL:0000594,progenitor cell
+HCA,Skeletal muscle,"PDE4D, MLIP, NEB, FBXO32, TRIM63, DMD, SVIL, TBC1D8, EYA4, TTN",Myocyte (sk. muscle),muscle cell,CL:0000187,muscle cell
+HCA,Skeletal muscle,"DPYD, RBPJ, CELF2, FOXP1, TBXAS1, FMN1, RBM47, PLXDC2, GNAQ, ZEB2",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+HCA,Skeletal muscle,"PARP8, ARHGAP15, ITK, SKAP1, CELF2, CCND3, PTPRC, CDC14A, ANKRD44, STK4",Immune (T cell),T cell,CL:0000084,t/nk cell
+HCA,Skeletal muscle,"GNLY, B2M, CCND3, MCTP2, NKG7, CD247, FYN, CARD11, SKAP1, TMSB4X",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell
+HCA,Skeletal muscle,"LAMA2, DCN, NEGR1, GSN, LAMC1, APOD, PTPRG, GPX3, ABCA6, NOVA1",Fibroblast,fibroblast,CL:0000057,fibroblast
+HCA,Skeletal muscle,"PKHD1L1, ST6GALNAC3, PPFIBP1, MMRN1, TIMP3, TSHZ2, SASH1, MAGI1, EFNA5, TFPI",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+HCA,Skeletal muscle,"CPM, PPARG, ACACB, FRMD4A, SLC19A3, ADH1B, GSN, EBF1, SVEP1, PLIN1",Adipocyte,fat cell,CL:0000136,fat cell
+HCA,Skeletal muscle,"SRGN, SYTL3, ACER3, TPSB2, SLC24A3, TPSAB1, ANKRD44, CCND3, KIT, NTM",Immune (mast cell),mast cell,CL:0000097,granulocyte
+HCA,Skin,"RALGAPA2, MCTP1, SNTG2, PECAM1, MECOM, TCF4, SPARCL1, EMCN, NEDD9, PTPRM",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell
+HCA,Skin,"SLC12A2, STK39, ESRRG, ERBB4, TRPS1, PDE4D, MAGI1, CPEB3, DCD, TFCP2L1",Sweat gland cell,epithelial cell of sweat gland,CL:1000448,epithelial cell
+HCA,Skin,"FMN1, OCA2, PTPRM, DCT, PLEKHA5, TYR, EGLN3, INPP4B, MYO10, TRPM1",Melanocyte,melanocyte,CL:0000148,melanocyte
+HCA,Skin,"TPSB2, TPSAB1, CELF2, ZBTB20, RNF130, SYTL3, DIP2C, SLC38A11, TPSD1, ANKRD44",Immune (mast cell),mast cell,CL:0000097,granulocyte
+HCA,Skin,"CELF2, PARP8, FAM129A, ANKRD44, ARHGAP15, PTPRC, FYN, SYTL3, CAMK4, RNF19A",Immune (T cell),T cell,CL:0000084,t/nk cell
+HCA,Skin,"ALOX5, DOCK4, ELMO1, CDH20, ANKRD44, HLA-DRB1, ABCC4, ADAM28, FCGBP, SLC18A2",Immune (Langerhans),Langerhans cell,CL:0000453,dendritic cell
+HCA,Skin,"CELF2, DPYD, ELMO1, RBPJ, SMAP2, PLXDC2, IL1R2, HLA-DRB1, CD163, ZEB2",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte"
+HCA,Skin,"DMKN, SPINK5, SCEL, KRT2, RAPGEFL1, C3orf52, ANK3, SH3RF2, POF1B, CTNNBIP1",Epithelial cell (mature keratinocyte),keratinocyte,CL:0000312,epithelial cell
+HCA,Skin,"DMKN, ANK3, EEF2K, ROBO1, RAPGEFL1, TRIM29, POU2F3, DSP, NBEAL2, KLK11",Epithelial cell (suprabasal keratinocyte),keratinocyte,CL:0000312,epithelial cell
+HCA,Skin,"CENPT, EPS8L1, AZGP1, ATG9B, FLG2, PIEZO1, STK10, LINGO1, ECM1, RASGEF1B",Epithelial cell (cornified keratinocyte),keratinocyte,CL:0000312,epithelial cell
+HCA,Skin,"DST, COL17A1, LAMB4, CDH13, LAMA3, COL7A1, SULT1E1, TNS4, FBXW7, TP63",Epithelial cell (basal keratinocyte),basal cell,CL:0000646,stem cell
+HCA,Skin,"PKHD1L1, MMRN1, TSHZ2, PPFIBP1, LDB2, PLPP1, KALRN, ST6GALNAC3, DOCK5, TLL1",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+HCA,Skin,"ACACB, ITGA7, PTPRG, GLUL, GBE1, FASN, GHR, ADH1B, COL4A2, PPARG",Adipocyte,fat cell,CL:0000136,fat cell
+HCA,Skin,"LPP, CALD1, EBF1, PTPRG, ACTA2, RBPMS, CPM, PRKG1, RBMS3, RERG",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell"
+HCA,Skin,"LAMA2, PTPRG, NEGR1, BICC1, RORA, SNED1, ARHGAP10, PLEKHH2, PID1, GLUL",Fibroblast,fibroblast,CL:0000057,fibroblast
+HCA,Skin,"ACSBG1, RBM47, TXNIP, ZNF385D, HLCS, ACSL1, CLMP, KRT79, PM20D1, ALCAM",Sebaceous gland cell,sebaceous gland cell,CL:2000021,sebaceous gland cell

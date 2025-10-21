@@ -1,0 +1,65 @@
+dataset,tissue,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype
+MCA,,"Mdk, Rbp1, Nrep, Cdk4, Tead2, Hmgn1, Selenoh, Marcksl1, Mif, H2afz",Proliferating Myocyte,,,muscle cell
+MCA,,"Mylk, Acta2, Myl9, Mdk, Cdkn1c, Ptn, Dlk1, Itm2a, Meg3, Mfap2",Myocyte,,,muscle cell
+MCA,,"Ms4a4b, Trac, Ltb, Cd52, Trbc2, Cd3d, Cd8b1, Shisa5, Lck, Thy1",T cell,T cell,CL:0000084,t/nk cell
+MCA,,"Rtn1, Nnat, Tubb3, Tubb2b, Tuba1a, Stmn2, Stmn3, Igfbpl1, Tagln3, Gap43",Neuron,neuron,CL:0000540,neuron
+MCA,,"S100a6, Timp1, Cxcl5, Gm15772, Spp1, Lgals1, Gm28438, S100a4, Gm15459, Tm4sf1",MSC (Cultured),mesenchymal stem cell,CL:0000134,stem cell
+MCA,,"Rps13-ps1, Rps3a3, Dppa5a, Gm10036, Gm11942, Tdgf1, Gm15459, Stmn2, Chchd10, Tdh",mESC,embryonic stem cell,CL:0002322,stem cell
+MCA,,"Prm1, Prm2, Meig1, Ldhc, Tnp1, Fabp9, Tnp2, Smcp, Rbakdn, Ropn1l",Testicular cell,,,testis cell
+MCA,,"Rhox5, Bex1, Tex19.1, Gm15459, Bex3, Trap1a, Utf1, Gm11942, Gm15772, Cldn6",Trophoblast stem cell,,,stem cell
+MCA,,"Sbp, Spink1, 9530002B09Rik, Defb50, 5430419D17Rik, Wfdc3, Nupr1, Azgp1, Agr2, Tspan1",Prostate gland cell,,,prostate cell
+MCA,,"Matn1, Col2a1, Col9a2, Col9a3, Col9a1, Col11a1, Cnmd, 3110079O15Rik, Col11a2, Hapln1",Chondrocyte,chondrocyte,CL:0000138,stromal cell
+MCA,,"Camp, Ngp, S100a9, S100a8, Chil3, Ltf, Wfdc21, Lcn2, Fcnb, Pglyrp1",Neutrophil,neutrophil,CL:0000775,granulocyte
+MCA,,"Elane, Mpo, Ctsg, Prtn3, Ms4a3, Ly6c2, Plac8, Nkg7, Srgn, Cst7",Monocyte,monocyte,CL:0000576,macrophage/monocyte
+MCA,,"Klf1, Blvrb, Hmbs, Glrx5, Alad, Rfesd, Car2, Hebp1, Asns, Smim1",Erythroblast,erythroblast,CL:0000765,erythroid cell
+MCA,,"Tff1, Gkn1, Gkn2, Gsta1, Psca, Lgals2, Dpcr1, 2210407C18Rik, Tff2, Gsto1",Stomach epithelial cell,epithelial cell of stomach,CL:0002178,epithelial cell
+MCA,,"Fabp4, Cldn5, Ramp2, Egfl7, Cav1, Cd36, Esam, Gpihbp1, Ly6c1, Tm4sf1",Endothelial cell,endothelial cell,CL:0000115,endothelial cell
+MCA,,"Wap, Csn1s2b, Csn1s2a, Csn1s1, Csn2, Csn3, Glycam1, Lalba, Wfdc18, Lao1",Secretory alveoli cell,,,secretory cell
+MCA,,"Plp1, Ptgds, Mbp, Cldn11, Aplp1, Ermn, Mobp, Apod, Mag, Stmn4",Oligodendrocyte,oligodendrocyte,CL:0000128,oligodendrocyte
+MCA,,"Fabp7, Pantr1, Nnat, Ptn, Pax6, Rtn1, Dbi, Tuba1a, H2afv, Tubb2b",Proliferative neuron,,,neuron
+MCA,,"Dlk1, H19, Postn, Col1a2, Itm2a, Aspn, Fstl1, Mfap5, Col3a1, Igf2",Stromal cell,stromal cell,CL:0000499,stromal cell
+MCA,,"Cd79a, Ighm, Cd74, Cd79b, Iglc2, Iglc3, Ms4a1, Fcmr, Ighd, H2-Ab1",B cell,B cell,CL:0000236,b cell
+MCA,,"Pf4, C1qc, C1qb, Apoe, Ctsc, C1qa, Fcer1g, F13a1, Csf1r, Tyrobp",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+MCA,,"Stra8, Dazl, Sycp3, Tex101, Tex12, Smc1b, Syce2, Fkbp6, Slc25a31, Tex30",Primordial germ cell,primordial germ cell,CL:0000670,germ cell
+MCA,,"Reg3b, Reg3g, Fabp2, Fabp6, Lgals4, Lypd8, Apoa1, Tff3, Fabp1, Prap1",Intestinal epithelial cell,intestinal epithelial cell,CL:0002563,epithelial cell
+MCA,,"H2-Eb1, H2-Ab1, H2-Aa, Cd74, Cst3, Plbd1, H2-DMa, H2-DMb1, Gm2a, Psap",Dendritic cell,dendritic cell,CL:0000451,dendritic cell
+MCA,,"Car1, Car2, Fam132a, Blvrb, Klf1, Vamp5, Rhd, Aqp1, Gm15915, Atpif1",Erythroid progenitor,erythroid progenitor cell,CL:0000038,progenitor cell
+MCA,,"Sftpc, Sftpa1, Sftpb, Sftpd, Cxcl15, Slc34a2, Cbr2, Chil1, Scd1, Lyz1",Alveolar type II cell,type II pneumocyte,CL:0002063,epithelial cell
+MCA,,"Kap, Miox, Aldob, Akr1c21, Fxyd2, Gsta2, Gpx3, Rida, Ass1, Keg1",Proximal tubule brush border cell,brush border cell of the proximal tubule,CL:0002307,epithelial cell
+MCA,,"Prtn3, Cmtm7, H2afy, Mpo, Plac8, Ctsg, Emb, Gmfg, Ptprcap, AI662270",Myeloid progenitor cell,myeloid lineage restricted progenitor cell,CL:0000839,progenitor cell
+MCA,,"Inha, Akr1cl, Hsd3b1, Serpine2, Bex4, Nap1l5, Ctsl, Htra1, Tnni3, Hsd17b1",Cumulus cell,cumulus cell,CL:0000711,epithelial cell
+MCA,,"Igfbp7, Mgp, Sparc, Tbx20, Postn, Slc16a2, Myl2, Sln, Myl3, Aspn",Myoblast,myoblast,CL:0000056,progenitor cell
+MCA,,"Cfd, Car3, Fabp4, Adipoq, Cidea, Cidec, Cox8b, Chchd10, mt-Rnr1, Lpl",Adipocyte,fat cell,CL:0000136,fat cell
+MCA,,"Sprr1a, Gstm1, Krt15, Ly6d, Upk3a, Gsta4, Krt7, Wfdc2, Sprr2a3, Upk1a",Urothelium,urothelial cell,CL:0000731,epithelial cell
+MCA,,"Wfdc2, Mdk, H19, Mif, Cldn6, Cdk4, Bex4, Hmgn1, Cldn7, Epcam",Epithelial cell,epithelial cell,CL:0000066,epithelial cell
+MCA,,"Defb19, Cst9, Gstm2, Gstm6, Clu, Kctd14, Ptgds, Aldh1a1, Bex2, Gstm1",Sertoli cells,Sertoli cell,CL:0000216,epithelial cell
+MCA,,"Hspa1b, Clec4g, Cxcl10, Selenop, Fcgr2b, Aqp1, Hspa1a, Eng, Il1a, Dnase1l3",Endothelial Cell,endothelial cell,CL:0000115,endothelial cell
+MCA,,"Tpm1, Mdk, Tceal9, Tcf21, Dlk1, Tsc22d1, Maged2, Rpl13, Serpinh1, Meg3",Muscle cell,muscle cell,CL:0000187,muscle cell
+MCA,,"Sct, Rhox9, Rhox6, Ldoc1, Sin3b, Fthl17a, Cdkn1c, Gm9112, Rhox5, 3830417A13Rik",Trophoblast progenitor cell,,,progenitor cell
+MCA,,"Bglap, Bglap2, Ibsp, Col1a1, Col1a2, Car3, Serpinf1, Ifitm5, Sparc, Cgref1",Osteoblast,osteoblast,CL:0000062,osteoblast
+MCA,,"Acta2, Myl9, Tpm2, Mustn1, Igfbp7, Tpm1, Myl6, Cald1, Eln, Tagln",Smooth muscle cell,smooth muscle cell,CL:0000192,muscle cell
+MCA,,"Hsd3b1, Cyp11a1, Fdx1, Akr1cl, Sfrp4, Ephx2, Mgarp, Idh1, Lhcgr, Scarb1",Luteal cell,luteal cell,CL:0000175,stromal cell
+MCA,,"Klk1, Umod, Wfdc15b, Defb1, Fxyd2, Egf, Ppp1r1a, Atp1b1, Kng2, Atp1a1",Renal tubular cell,,,kidney cell
+MCA,,"Dppa3, Dazl, Utf1, Dppa5a, Fkbp6, Tex19.1, Dppa4, Cct8, Rps4l, Ifitm1",Premeiotic germ cell,,,germ cell
+MCA,,"Gzma, Ccl5, Gzmb, Cd7, Rgs1, AW112010, Cd3g, Nkg7, Cd8a, Tcrg-C2",NK/T cell,"natural killer cell,T cell","CL:0000623,CL:0000084",t/nk cell
+MCA,,"Kctd14, Lgals7, Gng13, Bmyc, Ifitm1, Gstm2, Laptm4b, Amhr2, Wnt6, Ldhb",Granulosa cell,granulosa cell,CL:0000501,epithelial cell
+MCA,,"Ccl5, Nkg7, AW112010, Klrd1, Gzma, Ms4a4b, Il2rb, Klrb1c, Klre1, Klra4",NK cell,natural killer cell,CL:0000623,t/nk cell
+MCA,,"Nppa, Actc1, Tnnt2, Myl3, Myl2, Cox6a2, Pln, Tnnc1, Tnni3, Tnni1",Cardiac muscle cell,cardiac muscle cell,CL:0000746,muscle cell
+MCA,,"Hexb, C1qc, P2ry12, C1qa, Cst3, Fcrls, C1qb, Ctss, Cx3cr1, Lgmn",Microglia,microglial cell,CL:0000129,microglia
+MCA,,"Pgc, Pla2g1b, Fxyd3, mt-Co1, Cfi, Anxa10, Tspan1, Tff2, Atp4b, Cystm1",Gastric mucosa cell,surface mucosal cell of stomach,CL:0002182,epithelial cell
+MCA,,"Cpa2, Cpa1, Ctrb1, Pnliprp1, Clps, Serpina6, Ambp, Ttr, Dlk1, Cela1",Pancreatic acinar cell,pancreatic acinar cell,CL:0002064,epithelial cell
+MCA,,"Cyp17a1, Hsd3b1, Cyp11a1, Akr1cl, Aldh1a1, Fdx1, Acsbg1, Star, Mgarp, Me1",Leydig cell,Leydig cell,CL:0000178,interstitial cell
+MCA,,"Calb1, Rprm, Wfdc2, Wfdc15b, Cldn6, Mdk, Hoxb7, Cldn7, Ldhb, Ptma",Kidney epithelial,kidney epithelial cell,CL:0002518,epithelial cell
+MCA,,"Chga, Pcsk2, Chgb, Pyy, Pcsk1n, Iapp, Resp18, Ins2, Gcg, Scg2",Endocrine cell,endocrine cell,CL:0000163,secretory cell
+MCA,,"Prss34, Mcpt8, Prg2, Cpa3, Fcer1a, Ms4a2, Srgn, Cd200r3, Ifitm1, Gata2",Mast cell,mast cell,CL:0000097,granulocyte
+MCA,,"Pga5, Col4a2, Col4a1, Lama1, Ctsl, Aqp8, Gkn2, Serpinh1, Txndc12, Lrpap1",Placenta endodermal cell,,,embryonic cell
+MCA,,"Tpbpa, Tpbpb, Prl3b1, Prl2b1, Ceacam11, Prl8a9, Ceacam14, Psg21, Prl8a8, Ceacam12",Spongiotrophoblast,spongiotrophoblast cell,CL:0002499,extraembryonic cell
+MCA,,"Dynlrb2, Scgb1a1, Cyp2f2, Scgb3a2, Riiad1, Ccdc153, Tmem212, Mt3, Lrrc23, Fam183b",Clara Cell,club cell,CL:0000158,epithelial cell
+MCA,,"Atp6v1g3, Tmem213, Atp6v1a, mt-Nd5, Spink8, Car12, Atp6v1b1, Rhcg, Atp6v0d2, Clcnkb",Intercalated cells of collecting duct,kidney collecting duct intercalated cell,CL:1001432,epithelial cell
+MCA,,"Sprr2f, Fam213a, Padi1, Fxyd4, Tmem213, Ltf, Spink12, Lcn2, Clca1, Wfdc2",Principal cells of cortical collecting duct,kidney cortex collecting duct principal cell,CL:1000714,epithelial cell
+MCA,,"Cd9, Ear2, Chil3, Ccl6, Ear1, Atp6v0d2, Krt79, Ctss, Ctsd, Lgals3",Eosinophil,eosinophil,CL:0000771,granulocyte
+MCA,,"Ttr, 1500015O10Rik, Sostdc1, Kcnj13, Defb11, Kcne2, Igfbp2, Trpm3, Slc6a15, Folr1",Schwann cell,Schwann cell,CL:0002573,glial cell
+MCA,,"Atp1a2, Aldoc, Gpr37l1, Atp1b2, Ntsr2, Slc1a3, Slc1a2, Sparcl1, Ndrg2, Pla2g7",Astrocyte,astrocyte,CL:0000127,astrocyte
+MCA,,"Serpina1c, Apoc3, Apoc1, Bhmt, Akr1c6, Apoa2, Serpina1b, Serpina1a, Gsta3, Mat1a",Hepatocyte,hepatocyte,CL:0000182,epithelial cell
+MCA,,"Col2a1, Col9a1, Col9a3, Cdkn1c, Col9a2, Matn4, H19, Serpinh1, Cnmd, Matn1",Cartilage cell,chondrocyte,CL:0000138,stromal cell
+MCA,,"Ctla2a, 4930486L24Rik, Prl8a2, Rarres2, Erv3, Mrgprg, Mt1, Srgn, Mt2, Gpx3",Decidual stromal cell,decidual cell,CL:2000002,stromal cell

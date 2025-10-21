@@ -1,0 +1,11 @@
+dataset,tissue,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype
+lungcancer,lung cancer and brain metastasis,"LYZ,C1QA,C1QB,AIF1,TYROBP,FCER1G,CD68,C1QC,APOC1,LST1",Myeloid cells,myeloid cell,CL:0000763,myeloid cell
+lungcancer,lung cancer and brain metastasis,"TRAC,CD3D,IL32,CD3E,CD2,TRBC2,TRBC1,CD3G,CCL5,IL7R",T lymphocytes,T cell,CL:0000084,t/nk cell
+lungcancer,lung cancer and brain metastasis,"GNLY,NKG7,FGFBP2,GZMB,PRF1,KLRD1,GZMH,CST7,KLRF1,CTSW",NK cells,natural killer cell,CL:0000623,t/nk cell
+lungcancer,lung cancer and brain metastasis,"CD79A,MS4A1,VPREB3,CD79B,IGKC,IGLC2,IGHM,BANK1,IGHG1,IGLC3",B lymphocytes,B cell,CL:0000236,b cell
+lungcancer,lung cancer and brain metastasis,"DCN,MGP,LUM,IGFBP7,COL1A2,FBLN1,SPARCL1,RARRES2,SPARC,C1S",Fibroblasts,fibroblast,CL:0000057,fibroblast
+lungcancer,lung cancer and brain metastasis,"CLDN5,RAMP2,GNG11,CAV1,SPARCL1,IGFBP7,CLEC14A,EPAS1,TM4SF1,EGFL7",Endothelial cells,endothelial cell,CL:0000115,endothelial cell
+lungcancer,lung cancer and brain metastasis,"TPSB2,TPSAB1,CPA3,MS4A2,HPGDS,RGS13,GATA2,VWA5A,C1orf186,RP11-354E11.2",MAST cells,mast cell,CL:0000097,granulocyte
+lungcancer,lung cancer and brain metastasis,"SFTPB,SFTPA2,SFTPA1,SLPI,WFDC2,NAPSA,SLC34A2,SFTA2,SCGB3A2,AGR3",Epithelial cells,epithelial cell,CL:0000066,epithelial cell
+lungcancer,lung cancer and brain metastasis,"KRT19,KRT18,AGR2,KRT8,MDK,CLDN4,ELF3,EPCAM,KRT7,MAL2",Malignant cells,malignant cell,CL:0001064,malignant cell
+lungcancer,lung cancer and brain metastasis,"PLP1,CRYAB,PTGDS,S100B,PPP1R14A,GPM6B,APLP1,APOD,MAG,TF",Oligodendrocytes,oligodendrocyte,CL:0000128,oligodendrocyte

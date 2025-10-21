@@ -1,0 +1,91 @@
+dataset,tissue,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype
+literature,Breast,"EBF1, G0S2, PLIN1, PLIN2, LPIN1, FOXO1, PPARG, ACSL1, ADIPOQ, GHR",Adipocyte,fat cell,CL:0000136,fat cell
+literature,Breast,"LDB2, EGFL7, PECAM1, CDH5, VWF, PECAM1, RAMP3, CD300LG, BACE2, EPHB4, NOSTRIN, LDB2, PTPRB, CLDN5",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell
+literature,Breast,"CD96, PTPRC, CD247, SKAP1, THEMIS, CD69, IL7R, NKG7, TRAC, CD3D, CD3E, CD3G, TRBC1",T cell,T cell,CL:0000084,t/nk cell
+literature,Breast,"CALD1, ACTA2, TAGLN, MYH11, MYOCD, SMTN, VCL, CNN1, ACTG2, MYL9, PALLD, GUCY1A3, GUCY1B3, ACTN1, DES",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+literature,Breast,"ACTA2, KRT14, KRT17, KRT5, MME, TP63, CALD1, MYH11",Myoepithelial (Basal),myoepithelial cell,CL:0000185,epithelial cell
+literature,Breast,"TPSAB1, FCER1A, TPSB2, KIT, CD69, HDC",Mast Cell,mast cell,CL:0000097,granulocyte
+literature,Breast,"ACTA2, MYO1B, ACTA2, ANPEP, DES, MCAM, PDGFRB, CSPG4",Pericyte,pericyte,CL:0000669,pericyte
+literature,Breast,"LYVE1, MMRN1, FLT4, RELN, CCL21, PROX1, LYVE1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+literature,Breast,"HES2, TFCP2L1, KLF5, SOX10, ELF5, SOX9, AFF3, KRT8, EPCAM, KIT, KRT18, ESR1, PGR, KRT7, PRLR, KRT19, MUC1",Luminal Epithelial,,,epithelial cell
+literature,Breast,"FN1, S100A4, FGF7, COL6A1, COL1A1, COL3A1, COL5A1, NEGR1, CCN2, FN1, DCN, SLIT2, COL6A6, HGF, COL18A1, IL6, IL33, IGFBP3, IGFBP5, COL1A2, DDR2, COL5A2, COL6A2, COL6A3, FBLN1, COL4A1, FBN1, VIM",Fibroblast,fibroblast,CL:0000057,fibroblast
+literature,Breast,"CR2, CD24, FAS, CXCR3, CD1c",B cell_memory,memory B cell,CL:0000787,b cell
+literature,Breast,"MS4A4A, RBPJ, MS4A6A, MRC1, C1QA, MR1, LYVE1, CSF1R, PTPRC, SLC11A1, LYZ, CD74, CD36, MERTK, MSR1, CPM, MS4A6A, CD163, CD68",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+literature,Esophagus,"TPSAB1, FCER1A, TPSB2, KIT, CD69, HDC",Mast Cell,mast cell,CL:0000097,granulocyte
+literature,Esophagus,"PECAM1, CDH5, VWF, PTPRB, EGFL7, CLDN5",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell
+literature,Esophagus,"CD96, PTPRC, CD247, SKAP1, THEMIS, CD69, IL7R, NKG7, TRAC, CD3D, CD3E, CD3G, TRBC1",T cell,T cell,CL:0000084,t/nk cell
+literature,Esophagus,"NCCRP1, CRNN, CD46, MUC4, MUC1",Squamous Epithelia,squamous epithelial cell,CL:0000076,epithelial cell
+literature,Esophagus,"MS4A4A, RBPJ, MS4A6A, MRC1, C1QA, MR1, LYVE1, CSF1R, PTPRC, SLC11A1, LYZ, CD74, CD36, MERTK, MSR1, CPM, MS4A6A, CD163, CD68",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+literature,Esophagus,"CNN1, TAGLN, ACTG2, MYL9, PALLD, DES, ACTA2, MYH11, ACTN1",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+literature,Esophagus,"KIT, ANO1, PRKCQ, EDN3, ETV1",Interstitial Cell of Cajal (ICC),interstitial cell of Cajal,CL:0002088,interstitial cell
+literature,Esophagus,"COL6A3, COL6A1, NEGR1, DCN, COL1A1, FN1, S100A4, COL1A2, COL6A6, DDR2, COL5A2, COL6A3, COL6A2, FBLN1, FBN1",Fibroblast,fibroblast,CL:0000057,fibroblast
+literature,Esophagus,"TP63, KRT15, KRT14, KRT5, DSG3, FOXP1, S100A2, TP53, LAMA3",Basal Epithelia,basal cell,CL:0000646,stem cell
+literature,Esophagus,"CR2, CD24, FAS, CXCR3, CD1c",B cell_memory,memory B cell,CL:0000787,b cell
+literature,Esophagus,"ADIPOQ, EBF1, PLIN1, PLIN2, LPIN1, FOXO1, PPARG",Adipocyte,fat cell,CL:0000136,fat cell
+literature,Esophagus,"FLT4, MMRN1, CCL21, PROX1, LYVE1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+literature,Heart,"MYH7, MYL2, TNNT2, TNNC2, RYR2, ACTC1, TPM1, NPPB, NPPA, MYBPC3, NEBL, MB, TTN, MYOM1, TNNI3, DES",Ventricular Myocyte,,,muscle cell
+literature,Heart,"PECAM1, VWF, PTPRB, EGFL7, PECAM1, RAMP3, CD300LG, BACE2, EPHB4, NOSTRIN, LDB2, PTPRB, CLDN5",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell
+literature,Heart,"CD3E, CD96, PTPRC, CD247, SKAP1, THEMIS, CD69, IL7R, NKG7, TRAC, CD3D, CD3E, CD3G, TRBC1",T cell,T cell,CL:0000084,t/nk cell
+literature,Heart,"MYH11, TAGLN, ACTA2, TAGLN, ACTA2, MYH11, MYOCD, SMTN, VCL, CNN1, ACTG2, MYL9, PALLD, GUCY1A3, GUCY1B3, ACTN1, DES",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+literature,Heart,"ACTA2, MYO1B, ACTA2, ANPEP, DES, MCAM, PDGFRB, CSPG4",Pericyte,pericyte,CL:0000669,pericyte
+literature,Heart,"KIT, TPSAB1, FCER1A, TPSB2, CD69, HDC",Mast Cell,mast cell,CL:0000097,granulocyte
+literature,Heart,"MMRN1, FLT4, RELN, CCL21, PROX1, LYVE1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+literature,Heart,"PDGFRA, DDR2, VIM, COL6A1, COL1A1, COL3A1, COL5A1, NEGR1, CCN2, FN1, DCN, SLIT2, COL6A6, HGF, COL18A1, IL6, IL33, IGFBP3, IGFBP5, COL1A2, DDR2, COL5A2, COL6A2, COL6A3, FBLN1, COL4A1, FBN1, VIM",Fibroblast,fibroblast,CL:0000057,fibroblast
+literature,Heart,"MS4A1, CR2, CD24, FAS, CXCR3, CD1c",B cell_memory,memory B cell,CL:0000787,b cell
+literature,Heart,"G0S2, ACSL1, ADIPOQ, EBF1, PLIN2, PLIN1, GHR, LPIN1, FOXO1, PPARG",Adipocyte,fat cell,CL:0000136,fat cell
+literature,Heart,"FCGR1A, CD163, MS4A4A, RBPJ, MS4A6A, MRC1, C1QA, MR1, LYVE1, CSF1R, PTPRC, SLC11A1, LYZ, CD74, CD36, MERTK, MSR1, CPM, MS4A6A, CD163, CD68",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+literature,Lung,"CD163, MS4A4A, RBPJ, MS4A6A, MRC1, C1QA, MR1, LYVE1, CSF1R, PTPRC, SLC11A1, LYZ, CD74, CD36, MERTK, MSR1, CPM, MS4A6A, CD163, CD68",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+literature,Lung,"VWF, PECAM1, RAMP3, CD300LG, BACE2, EPHB4, NOSTRIN, LDB2, PTPRB, CLDN5",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell
+literature,Lung,"CD96, PTPRC, CD247, SKAP1, THEMIS, CD69, IL7R, NKG7, TRAC, CD3D, CD3E, CD3G, TRBC1",T cell,T cell,CL:0000084,t/nk cell
+literature,Lung,"TAGLN, ACTA2, MYH11, MYOCD, SMTN, VCL, CNN1, ACTG2, MYL9, PALLD, GUCY1A3, GUCY1B3, ACTN1, DES",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+literature,Lung,"PDGFRB, ACTA2, MYO1B, ACTA2, ANPEP, DES, MCAM, PDGFRB, CSPG4",Pericyte,pericyte,CL:0000669,pericyte
+literature,Lung,"MMRN1, FLT4, RELN, CCL21, PROX1, LYVE1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+literature,Lung,"TPSAB1, FCER1A, TPSB2, KIT, CD69, HDC",Mast Cell,mast cell,CL:0000097,granulocyte
+literature,Lung,"BPIFA1, SCGB1A1, SCGB3A1, SCGB3A2, MUC5B, SLPI, CYP2F2",Club Epithelial,club cell,CL:0000158,epithelial cell
+literature,Lung,"G0S2, ACSL1, ADIPOQ, EBF1, PLIN2, PLIN1, GHR, LPIN1, FOXO1, PPARG",Adipocyte,fat cell,CL:0000136,fat cell
+literature,Lung,"AGER, PDPN, HOPX, EMP2, CAV1",Alveolar Type I,type I pneumocyte,CL:0002062,epithelial cell
+literature,Lung,"SFTPB, SFTPC, LAMP3, SLC34A2, NKX2-1",Alveolar Type II,type II pneumocyte,CL:0002063,epithelial cell
+literature,Lung,"COL6A1, COL1A1, COL3A1, COL5A1, NEGR1, CCN2, FN1, DCN, SLIT2, COL6A6, HGF, COL18A1, IL6, IL33, IGFBP3, IGFBP5, COL1A2, DDR2, COL5A2, COL6A2, COL6A3, FBLN1, COL4A1, FBN1, VIM",Fibroblast,fibroblast,CL:0000057,fibroblast
+literature,Lung,"FOXJ1, TUBA1A, CDHR3, HYDIN, FAM92B, DNAH5, DNAI2, DNAI1",Ciliated Epithelial,ciliated epithelial cell,CL:0000067,epithelial cell
+literature,Lung,"CR2, CD24, FAS, CXCR3, CD1c",B cell_memory,memory B cell,CL:0000787,b cell
+literature,Prostate,"ACTA2, MYO1B, ACTA2, ANPEP, DES, MCAM, PDGFRB, CSPG4",Pericyte,pericyte,CL:0000669,pericyte
+literature,Prostate,"CD200, PECAM1, VWF, PTPRB, EGFL7, PECAM1, RAMP3, CD300LG, BACE2, EPHB4, NOSTRIN, LDB2, PTPRB, CLDN5",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell
+literature,Prostate,"CD96, PTPRC, CD247, SKAP1, THEMIS, CD69, IL7R, NKG7, TRAC, CD3D, CD3E, CD3G, TRBC1",T cell,T cell,CL:0000084,t/nk cell
+literature,Prostate,"TPM2, MYL9, MYH11, TAGLN, ACTA2, TAGLN, MYH11, MYOCD, SMTN, VCL, CNN1, ACTG2, MYL9, PALLD, GUCY1A3, GUCY1B3, ACTN1, DES",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+literature,Prostate,"TPSAB1, FCER1A, TPSB2, KIT, CD69, HDC",Mast Cell,mast cell,CL:0000097,granulocyte
+literature,Prostate,"MMRN1, FLT4, RELN, CCL21, PROX1, LYVE1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+literature,Prostate,"KLK3, KRT8, KLK2, MSMB, ACPP, KLK1, KLK4",Luminal Epithelial,,,epithelial cell
+literature,Prostate,"COL6A1, PDPN, FBLN1, DCN, COL6A1, COL1A1, COL3A1, COL5A1, NEGR1, CCN2, FN1, DCN, SLIT2, COL6A6, HGF, COL18A1, IL6, IL33, IGFBP3, IGFBP5, COL1A2, DDR2, COL5A2, COL6A2, COL6A3, FBLN1, COL4A1, FBN1, VIM",Fibroblast,fibroblast,CL:0000057,fibroblast
+literature,Prostate,"CR2, CD24, FAS, CXCR3, CD1c",B cell_memory,memory B cell,CL:0000787,b cell
+literature,Prostate,"G0S2, ACSL1, ADIPOQ, EBF1, PLIN2, PLIN1, GHR, LPIN1, FOXO1, PPARG",Adipocyte,fat cell,CL:0000136,fat cell
+literature,Prostate,"CD68, MS4A4A, RBPJ, MS4A6A, MRC1, C1QA, MR1, LYVE1, CSF1R, PTPRC, SLC11A1, LYZ, CD74, CD36, MERTK, MSR1, CPM, MS4A6A, CD163, CD68",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+literature,Skeletal muscle,"MYH1, MYH2, MYH4, GLUT4, MYL3",Myofiber/Myocyte,muscle cell,CL:0000187,muscle cell
+literature,Skeletal muscle,"CD96, PTPRC, CD247, SKAP1, THEMIS, CD69, IL7R, NKG7, TRAC, CD3D, CD3E, CD3G, TRBC1",T cell,T cell,CL:0000084,t/nk cell
+literature,Skeletal muscle,"CALD1, TAGLN, ACTA2, MYH11, CNN1, NOTCH3, CACNA1C, TAGLN, ACTA2, MYH11, MYOCD, SMTN, VCL, CNN1, ACTG2, MYL9, PALLD, GUCY1A3, GUCY1B3, ACTN1, DES",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+literature,Skeletal muscle,"NCAM1, PAX7, CALCR, PAX3, MYF5",Satellite Cell,skeletal muscle satellite cell,CL:0000594,progenitor cell
+literature,Skeletal muscle,"ALPL, CSPG4, RGS5, PDGFRB, ACTA2, MYO1B, ACTA2, ANPEP, DES, MCAM, PDGFRB, CSPG4",Pericyte,pericyte,CL:0000669,pericyte
+literature,Skeletal muscle,"EGFL7, PECAM1, VWF, ERAS1, PECAM1, RAMP3, CD300LG, BACE2, EPHB4, NOSTRIN, LDB2, PTPRB, EGLF7, CLDN5",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell
+literature,Skeletal muscle,"TPSAB1, TPSAB1, KIT, TPSAB1, FCER1A, TPSB2, KIT, CD69, HDC",Mast Cell,mast cell,CL:0000097,granulocyte
+literature,Skeletal muscle,"MRC1, CD163, ITGAM, MS4A4A, RBPJ, MS4A6A, MRC1, C1QA, MR1, LYVE1, CSF1R, PTPRC, SLC11A1, LYZ, CD74, CD36, MERTK, MSR1, CPM, MS4A6A, CD163, CD68",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+literature,Skeletal muscle,"MMRN1, FLT4, RELN, CCL21, PROX1, LYVE1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+literature,Skeletal muscle,"COL6A1, PDGFRA, S100A4, COL6A2, COL6A3, VIM, DCN, COL6A1, COL1A1, COL3A1, COL5A1, NEGR1, CCN2, FN1, DCN, SLIT2, COL6A6, HGF, COL18A1, IL6, IL33, IGFBP3, IGFBP5, COL1A2, DDR2, COL5A2, COL6A2, COL6A3, FBLN1, COL4A1, FBN1, VIM",Fibroblast,fibroblast,CL:0000057,fibroblast
+literature,Skeletal muscle,"CR2, CD24, FAS, CXCR3, CD1c",B cell_memory,memory B cell,CL:0000787,b cell
+literature,Skeletal muscle,"G0S2, ACSL1, ADIPOQ, EBF1, PLIN2, PLIN1, GHR, LPIN1, FOXO1, PPARG",Adipocyte,fat cell,CL:0000136,fat cell
+literature,Skeletal muscle,"MYL2, MYOG, ACTA1, MYH7, MYH3, MYL1, CAST, MYO18B, MYBPC1, MYOT, TPM2, EGF, NEB, FOXO1, CKM, MB, TCAP, MYOM3, TTN, TRIM63, TPM3, RYR1, MYOM1, MYOD1, DMD",Myocyte,,,muscle cell
+literature,Skin,"SBSN, KRT10, KRT1, KRT14, KRT5, KRT1",Suprabasal keratinocyte,,,epithelial cell
+literature,Skin,"TAGLN, MYL9, SMTN, ACTA2, PALLD, TAGLN, ACTA2, MYH11, MYOCD, SMTN, VCL, CNN1, ACTG2, MYL9, PALLD, GUCY1A3, GUCY1B3, ACTN1, DES",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell
+literature,Skin,"SCGB2A2, PIP, SCGB1B2P, SCGB2A1, SCGB3A1, SCGB3A2, SCGB1A1",Secretory Cell,secretory cell,CL:0000151,secretory cell
+literature,Skin,"MGST1, FADS2, PPARG, FAR2, KRT7, MC5R, KRT4, MUC1",Sebocyte,sebum secreting cell,CL:0000317,secretory cell
+literature,Skin,"LAMA5, PDGFRB, MCAM, RGS5, ACTA2, MYO1B, ACTA2, ANPEP, DES, MCAM, PDGFRB, CSPG4",Pericyte,pericyte,CL:0000669,pericyte
+literature,Skin,"BCL2, MITF, SOX9, KIT, PMEL, MLANA",Melanocyte,melanocyte,CL:0000148,melanocyte
+literature,Skin,"ERBB2, ELOVL1, FLG2, LOR, SBSN, KRT10",Mature keratinocyte,keratinocyte,CL:0000312,epithelial cell
+literature,Skin,"MMRN1, FLT4, RELN, CCL21, PROX1, LYVE1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+literature,Skin,"MS4A4A, RBPJ, CD163, MSR1, MRC1, C1QA, MR1, LYVE1, CSF1R, PTPRC, SLC11A1, LYZ, CD74, CD36, MERTK, MSR1, CPM, MS4A6A, CD163, CD68",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+literature,Skin,"ENTPD1, COL6A5, HSPB3, CRABP1, ALX4",Fibroblast (Papillary Dermis),fibroblast of papillary layer of dermis,CL:1000302,fibroblast
+literature,Skin,"COL6A1, COL1A1, COL3A1, COL5A1, NEGR1, CCN2, FN1, DCN, SLIT2, COL6A6, HGF, COL18A1, IL6, IL33, IGFBP3, IGFBP5, COL1A2, DDR2, COL5A2, COL6A2, COL6A3, FBLN1, COL4A1, FBN1, VIM, VIM, FMO1, SFRP2, COL1A2, PDGFRA, HSP47, COL4A1",Fibroblast,fibroblast,CL:0000057,fibroblast
+literature,Skin,"KRT14, POSTN, TP63, ATP2C1, KRT5, LAMA3",Basal Keratinocyte,basal cell of epidermis,CL:0002187,epithelial cell
+literature,Skin,"CR2, CD24, FAS, CXCR3, CD1c",B cell_memory,memory B cell,CL:0000787,b cell
+literature,Skin,"G0S2, ACSL1, ADIPOQ, EBF1, PLIN2, PLIN1, GHR, LPIN1, FOXO1, PPARG",Adipocyte,fat cell,CL:0000136,fat cell
+literature,Skin,"CD3D, CD96, PTPRC, CD247, SKAP1, THEMIS, CD69, IL7R, NKG7, TRAC, CD3D, CD3E, CD3G, TRBC1",T cell,T cell,CL:0000084,t/nk cell
+literature,Skin,"TPSAB1, FCER1A, TPSB2, KIT, CD69, TPSAB1, KIT, HDC",Mast Cell,mast cell,CL:0000097,granulocyte
+literature,Skin,"VWF, PECAM1, CLDN5, PECAM1, RAMP3, CD300LG, BACE2, EPHB4, NOSTRIN, LDB2, PTPRB, EGLF7, CLDN5",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell

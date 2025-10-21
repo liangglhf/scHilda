@@ -1,0 +1,62 @@
+dataset,tissue,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype
+HCL,,"BEX3, STMN1, HNRNPA1, SOX4, LDHB, SKP1, SNRPE, HMGB1, RPL10A, ID3",Fetal epithelial progenitor,,,progenitor cell
+HCL,,"CTSB, FTL, C1QB, LAPTM5, TYROBP, PSAP, C1QA, HLA-DRA, CTSD, NPC2",Macrophage,macrophage,CL:0000235,macrophage/monocyte
+HCL,,"JCHAIN, IGHA1, SSR4, MZB1, IGKC, IGHA2, HERPUD1, DERL3, SEC11C, FKBP11",B cell (Plasmocyte),plasma cell,CL:0000786,b cell
+HCL,,"C1S, TIMP2, COL6A3, SEMA3C, MMP2, GSN, IGFBP6, MFAP4, COL6A1, PLAC9",Fibroblast,fibroblast,CL:0000057,fibroblast
+HCL,,"PEBP1, MRPL33, STAR, RARRES2, CLU, CYP21A2, CYP17A1, AKR1B1, NOV, TPD52L1",Fasciculata cell,type II cell of adrenal cortex,CL:0002136,epithelial cell
+HCL,,"TRAC, CD3D, TRBC1, LTB, CD52, TRBC2, PABPC1, RP11-543P15.1, CALM1, IL2RG",T cell,T cell,CL:0000084,t/nk cell
+HCL,,"MDK, LGALS1, STMN1, DCN, COL1A2, BEX3, COL1A1, COL3A1, NREP, TUBB",Fetal mesenchymal progenitor,mesenchymal cell,CL:0008019,mesenchymal cell
+HCL,,"IFI27, TM4SF1, HLA-B, HLA-E, A2M, SOCS3, IGFBP7, SPARCL1, IFITM2, IFITM3",Endothelial cell (APC),endothelial cell,CL:0000115,endothelial cell
+HCL,,"LGALS4, PIGR, FXYD3, PHGR1, C15orf48, KRT19, TSPAN8, KRT8, EPCAM, LGALS3",Enterocyte progenitor,,,progenitor cell
+HCL,,"COL5A1, MEST, DLK1, OGN, LUM, POSTN, COL5A2, FSTL1, ISLR, GPC3",Fetal stromal cell,stromal cell,CL:0000499,stromal cell
+HCL,,"MLLT11, GPM6A, TMSB15A, UCHL1, NREP, TUBB2B, POU3F3, HN1, NNAT, FABP7",Fetal neuron,neuron,CL:0000540,neuron
+HCL,,"RPS23, RPS3, RPS27A, RPS6, RPS3A, UROD, AHSP, BLVRB, RPS14, RPS17",Erythroid progenitor cell (RP high),erythroid progenitor cell,CL:0000038,progenitor cell
+HCL,,"FCER1G, AIF1, FCN1, CTSS, LST1, TYROBP, LYZ, CD52, LAPTM5, OAZ1",Monocyte,monocyte,CL:0000576,macrophage/monocyte
+HCL,,"AGR2, MT1G, TSPAN8, MT1H, MT1E, FABP1, AGR3, LGALS2, GSTA1, SPINK1",Fetal enterocyte,enterocyte,CL:0000584,epithelial cell
+HCL,,"RBP2, TTR, APOA1, GSTA1, FABP1, FABP2, SERPINA1, FTL, SMIM24, APOC3",Hepatocyte/Endodermal cell,"hepatocyte,endodermal cell","CL:0000182,CL:0000223","epithelial cell,embryonic cell"
+HCL,,"FOS, RPL34, RPL31, RPS18, RPS14, RPL7, TMSB10, RPS27A, RPS3A, RPL35A",Fetal fibroblast,fibroblast,CL:0000057,fibroblast
+HCL,,"TMSB4X, A2M, GNG11, TMSB10, B2M, IFITM3, RAMP2, COL4A1, PRCP, TM4SF1",Endothelial cell,endothelial cell,CL:0000115,endothelial cell
+HCL,,"HLA-DRA, CD74, HLA-DPA1, HLA-DPB1, HLA-DRB1, CST3, HLA-DQA1, HLA-DQB1, TMSB4X, TMSB10",Dendritic cell,dendritic cell,CL:0000451,dendritic cell
+HCL,,"DEFB1, CD24, WFDC2, SPP1, CYSTM1, IGFBP7, CLDN4, LDHB, GDF15, ATP1A1",Loop of Henle,kidney loop of Henle epithelial cell,CL:1000909,epithelial cell
+HCL,,"AHSP, HBG2, HBM, HBA1, HBA2, GYPA, ALAS2, HBG1, GYPB, PRDX2",Erythroid cell,erythroid lineage cell,CL:0000764,erythroid cell
+HCL,,"DCN, LUM, MGP, C1S, SERPING1, CFD, GPX3, ADH1B, C1R, EFEMP1",Stromal cell,stromal cell,CL:0000499,stromal cell
+HCL,,"PLP1, TUBB4A, ERMN, QKI, CLDN11, CNP, MAG, EDIL3, PTGDS, TF",Oligodendrocyte,oligodendrocyte,CL:0000128,oligodendrocyte
+HCL,,"SFTPB, SFTPC, SLC34A2, SFTPA2, SFTPA1, NPC2, NAPSA, MUC1, CTSH, SFTPD",AT2 cell,type II pneumocyte,CL:0002063,epithelial cell
+HCL,,"TG, TFF3, PCP4, GPX3, CRYAB, CD24, CTSB, TPO, CLU, IYD",Thyroid follicular cell,thyroid follicular cell,CL:0002258,epithelial cell
+HCL,,"MT2A, CRYAB, GEM, SOD2, EEF1A1, EIF1, MAT2A, CXCL8, EMP1, RPS27",Smooth muscle cell,smooth muscle cell,CL:0000192,muscle cell
+HCL,,"CD74, HLA-DRA, HLA-DRB1, CD52, MS4A1, HLA-DPB1, CD79A, HLA-DPA1, CXCR4, HLA-DQB1",B cell,B cell,CL:0000236,b cell
+HCL,,"PLA2G2A, ADIRF, TM4SF1, HP, TMSB4X, TIMP1, SERPING1, EEF1A1, EFEMP1, S100A10",Epithelial cell,epithelial cell,CL:0000066,epithelial cell
+HCL,,"PHGR1, ANPEP, FABP1, ALDOB, FABP2, ADIRF, RBP2, SI, EPCAM, PCK1",Enterocyte,enterocyte,CL:0000584,epithelial cell
+HCL,,"RPS14, RPS29, RPS18, RPS6, RPS27, RPLP1, RPL31, RPL34, RPS19, RPL27A",Neutrophil (RPS high),neutrophil,CL:0000775,granulocyte
+HCL,,"RPS27, RPS29, CSTA, RPL21, RPL30, RPL34, LST1, CTSS, TYROBP, RPL31",Antigen presenting cell (RPS high),professional antigen presenting cell,CL:0000145,antigen presenting cell
+HCL,,"MATN1, MIA, C2orf82, EPYC, HAPLN1, LECT1, S100B, COL2A1, SEC61G, MATN3",Fetal chondrocyte,chondrocyte,CL:0000138,stromal cell
+HCL,,"CPA2, CELA3A, SPINK1, SERPINA3, PRSS2, PRSS1, REG3G, PLA2G1B, REG1A, REG1B",Pancreas exocrine cell,pancreas exocrine glandular cell,CL:1001599,epithelial cell
+HCL,,"SRGN, AZU1, MPO, MS4A3, RNASE2, ELANE, DEFA4, CTSG, PRTN3, ARHGDIB",Neutrophil,neutrophil,CL:0000775,granulocyte
+HCL,,"FTL, CD74, HLA-DRA, CTSD, C1QB, FTH1, C1QA, GRN, HLA-DPA1, APOC1",M2 Macrophage,alternatively activated macrophage,CL:0000890,macrophage/monocyte
+HCL,,"PGC, PGA5, LIPF, PGA3, CYSTM1, MT1G, CXCL17, MT1E, MUC1, AZGP1",Gastric chief cell,peptic cell,CL:0000155,epithelial cell
+HCL,,"CD1B, RP11-144L1.4, CD1E, KIAA0101, NDUFB3, TRDC, GMFG, RP11-620J15.3, FABP5, CBX3",Proliferating T cell,,,t/nk cell
+HCL,,"AGR2, CYSTM1, LYZ, MUC1, TFF2, TPT1, PSCA, ANXA10, CLDN18, MUC6",Goblet cell,goblet cell,CL:0000160,epithelial cell
+HCL,,"ATP6V1G3, TMEM213, RTN4, ATP6AP2, ATP6V0D2, CA12, NDUFA4, CYSTM1, FXYD2, LITAF",Intercalated cell,renal intercalated cell,CL:0005010,epithelial cell
+HCL,,"WFDC2, PIGR, SLPI, AZGP1, TACSTD2, CXCL17, KRT7, CLDN4, KRT19, CD24",Stratified epithelial cell,stratified epithelial cell,CL:0000079,epithelial cell
+HCL,,"S100P, S100A6, RPS27, S100A11, RPL31, RPL34, SPINK1, RPS6, B2M, ADIRF",Epithelial cell (intermediated),epithelial cell,CL:0000066,epithelial cell
+HCL,,"FCN3, CCL5, HLA-B, MYL12A, CRHBP, IFITM2, IFITM3, MS4A6A, S100A4, HLA-C",Sinusoidal endothelial cell,endothelial cell of hepatic sinusoid,CL:1000398,endothelial cell
+HCL,,"RPS6, RPS19, RPS18, RPS4X, RPS3A, RPS14, RPS23, RPL11, RPS16, RPS3",Primordial germ cell,primordial germ cell,CL:0000670,germ cell
+HCL,,"RPS9, RPL36A, GAS5, BTF3, NPM1, SNHG5, ZFAS1, STMN1, SLC25A6, RPS3A",Fetal skeletal muscle cell,cell of skeletal muscle,CL:0000188,muscle cell
+HCL,,"EPAS1, LUM, FN1, DCN, HLA-B, SPARCL1, HLA-E, SPARC, CAV1, IFITM3",Endothelial cell (endothelial to mesenchymal transition),valve endothelial cell,CL:4030033,endothelial cell
+HCL,,"S100A2, KRT5, SFN, KRT17, AQP3, SERPINB5, KRT15, KRT6A, KRT14, FGFBP1",Basal cell,basal cell,CL:0000646,stem cell
+HCL,,"GPM6A, MT3, C1orf61, SLC1A3, CLU, CKB, ATP1A2, SPARCL1, ALDOC, SCD5",Astrocyte,astrocyte,CL:0000127,astrocyte
+HCL,,"SPINK1, DLK1, RBPJ, MEG3, CPA2, RBP1, HNRNPA1, XIST, CD24, SERPINA1",Fetal acinar cell,acinar cell,CL:0000622,epithelial cell
+HCL,,"MYL7, ACTC1, TNNT2, MYL2, MYL3, TPM1, TNNC1, PLN, CSRP3, TNNI3",Ventricle cardiomyocyte,ventricular cardiac muscle cell,CL:2000046,muscle cell
+HCL,,"ITLN1, SLPI, HP, PRG4, ADIRF, TPT1, CPB1, TIMP1, C3, MT1E",Mesothelial cell,mesothelial cell,CL:0000077,epithelial cell
+HCL,,"DEFB1, LDHB, FXYD2, CD24, POU3F3, ITM2C, SLC12A1, BEX3, COX7B, WFDC2",Ureteric bud cell,,,ureteric bud cell
+HCL,,"AFP, FTL, LDHB, GPX3, SMIM24, CUBN, ATPIF1, HSPA5, RIDA, APOM",Proximal tubule progenitor,,,progenitor cell
+HCL,,"KLK3, AZGP1, MSMB, SAT1, PLPP1, DHRS7, TACSTD2, TSPAN1, KLK2, KRT18",Gastric endocrine cell,enteroendocrine cell,CL:0000164,secretory cell
+HCL,,"TPSB2, CPA3, TPSAB1, SRGN, RGS2, RGS1, NFKBIA, GLUL, VIM, ANXA1",Mast cell,mast cell,CL:0000097,granulocyte
+HCL,,"GLIPR1L1, KRT18, SLIRP, GAL, OCIAD2, ATP5G3, UCHL1, PRDX4, MIR302B, RPS2P46",hESC,embryonic stem cell,CL:0002322,stem cell
+HCL,,"CHGA, TTR, ALDH1A1, ERO1B, CPE, SCG5, BEX1, EPCAM, SCGN, HDC",Fetal endocrine cell,endocrine cell,CL:0000163,secretory cell
+HCL,,"MIR202HG, BEX1, ZFAND5, RNASE1, COL1A2, APOA1, AMH, SERPINA5, FSCN1, GSTA1",Immature sertoli cell (Pre-Sertoli cell),,,epithelial cell
+HCL,,"CCL5, CYP17A1, BTG1, CXCR4, GZMB, HLA-C, SRGN, CST7, CREM, ARHGDIB",Myeloid cell,myeloid cell,CL:0000763,myeloid cell
+HCL,,"S100B, GPM6B, PLP1, ANXA2, TUBA1A, STMN1, SPARC, CRABP1, TUBA1B, VIM",Fetal Neuron,neuron,CL:0000540,neuron
+HCL,,"FN1, MT2A, HAPLN1, C2orf40, CYTL1, ACAN, CTGF, SCRG1, SOD2, A2M",Chondrocyte,chondrocyte,CL:0000138,stromal cell
+HCL,,"ACP5, SPP1, MMP9, CTSK, CST3, CSTB, COX7B, RGS10, S100A4, ATP6V1G1",Kidney intercalated cell,kidney connecting tubule intercalated cell,CL:4030019,epithelial cell
+HCL,,"THRSP, FABP4, RBP4, G0S2, CHCHD10, DGAT2, COX5B, RPLP2, COX4I1, UQCRQ",Adrenal gland inflammatory cell,adrenal gland glandular cell,CL:1001601,epithelial cell

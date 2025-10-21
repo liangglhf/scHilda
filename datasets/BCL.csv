@@ -1,0 +1,10 @@
+dataset,tissue,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype
+BCL,B cell lymphoma,"CST3,LYZ,FCER1G,SERPINA1,TYROBP,CD68,IFI30,AIF1,IFITM3,TMEM176B",Myeloid cells,myeloid cell,CL:0000763,myeloid cell
+BCL,B cell lymphoma,"RGS13,IGLC1,CD79B,POU2F2,MS4A1,IGKV3-11,MEF2B,ACTG2,GRHPR,CD79A",Malignant B cells,,,malignant cell
+BCL,B cell lymphoma,"GZMK,CCL5,NKG7,CD8A,GZMA,GZMB,GZMH,CXCL13,CD3E,CST7",CD8 T cells,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell
+BCL,B cell lymphoma,"KLF2,BANK1,LY9,CD55,CD79A,HLA-DQB1,NR4A1,HLA-DRA,TXNIP,NR4A2",Non-malignant B cells,B cell,CL:0000236,b cell
+BCL,B cell lymphoma,"FOXP3,TNFRSF4,LTB,TNFRSF18,IL2RA,IL7R,TIGIT,IL32,CTLA4,CD7",Treg,regulatory T cell,CL:0000815,t/nk cell
+BCL,B cell lymphoma,"TRDV2,TRGV9,KLRC1,IL7R,KLRB1,KLRD1,ZBTB16,S1PR5,ANXA1,RORA",gd T,gamma-delta T cell,CL:0000798,t/nk cell
+BCL,B cell lymphoma,"IL7R,TXNIP,CD3E,TMEM173,CD4,SPOCK2,CD5,ZFP36L2,SARAF,FXYD5",CD4 T cells,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell
+BCL,B cell lymphoma,"PLP1,CRYAB,PTGDS,S100B,TF,PPP1R14A,SELENOP,S100A1,GPM6B,APLP1",Oligo,oligodendrocyte,CL:0000128,oligodendrocyte
+BCL,B cell lymphoma,"GNLY,KLRD1,HOPX,CTSW,TYROBP,FCGR3A,FGFBP2,KLRC2,TRDC,PRF1",NK,natural killer cell,CL:0000623,t/nk cell

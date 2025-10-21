@@ -1,0 +1,8 @@
+dataset,tissue,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype
+coloncancer,colon cancer,"KRT18,KRT8,EPCAM,CLDN3,KRT19,TFF3,CLDN4,TSPAN8,CD24,CEACAM5",colon cancer cell,,,malignant cell
+coloncancer,colon cancer,"PHGR1,GUCA2A,MT1G,PIGR,MT1E,GUCA2B,FABP1,LGALS4,FXYD3,CKB",Epithelial cells,epithelial cell,CL:0000066,epithelial cell
+coloncancer,colon cancer,"IGFBP7,SPARC,CALD1,COL1A2,COL3A1,COL1A1,DCN,COL6A2,LUM,MGP",Stromal cells,stromal cell,CL:0000499,stromal cell
+coloncancer,colon cancer,"TYROBP,FCER1G,IL1B,CCL3,CXCL8,CCL3L3,G0S2,S100A9,LYZ,AIF1",Myeloids,myeloid cell,CL:0000763,myeloid cell
+coloncancer,colon cancer,"CD3D,TRAC,CCL5,CD7,CD3E,TRBC2,CD2,KLRB1,CD52,TRBC1",T cells,T cell,CL:0000084,t/nk cell
+coloncancer,colon cancer,"JCHAIN,CD79A,IGHA1,IGHA2,MZB1,IGLC3,IGLC2,IGKC,AL928768.3,DERL3",B cells,B cell,CL:0000236,b cell
+coloncancer,colon cancer,"TPSB2,TPSAB1,CPA3,HPGDS,GATA2,MS4A2,C1orf186,LTC4S,SLC18A2,HDC",Mast cells,mast cell,CL:0000097,granulocyte
