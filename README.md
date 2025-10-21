@@ -9,7 +9,7 @@
 ### **1\. Cloning the Repository**
 
 ```bash
-git clone \[URL\_to\_your\_repository\]  
+git clone github.com/liangglhf/scHilda
 cd scHilda
 ```
 
