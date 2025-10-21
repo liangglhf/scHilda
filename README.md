@@ -33,7 +33,7 @@ NEO4J\_PASSWORD="your\_neo4j\_password"
 
 ### **4\. LLM API Key Configuration**
 
-Place your API key in the corresponding file of 'APIs/' directory.
+Create a directory named APIs in the project root and place your API key files within this directory.
 
 Set 'APIs/model\_api\_key.yaml' as:
 
