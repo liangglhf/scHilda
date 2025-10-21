@@ -26,7 +26,7 @@ pip install anthropic numpy inflect neo4j ols-py openai pandas PyYAML tiktoken t
 ### **3\. Knowledge Graph Configuration (Neo4j)**
 
 1. **Launch a Neo4j instance.** You can use Neo4j Desktop or a server deployment.  
-2. **Import the knowledge graph data.** Detailed instructions for populating the database are provided in the $\texttt{\`KG/README.md\`}$ 'KG/README.md'.  
+2. **Import the knowledge graph data.** Detailed instructions for populating the database are provided in the 'KG/' directory as README.md.  
 3. **Set your own information in the config.py** for the database connection: 
 
 ```bash
@@ -37,8 +37,8 @@ NEO4J\_PASSWORD="your\_neo4j\_password"
 
 ### **4\. LLM API Key Configuration**
 
-Place your API key in the corresponding file of 'APIs/'.
-Set APIs/model/model\_api\_key.yaml:
+Place your API key in the corresponding file of 'APIs/' directory.
+Set 'APIs/model/model\_api\_key.yaml':
 
 ```bash
   your\_model\_api\_key  
@@ -52,6 +52,6 @@ Once the configuration is complete, you can execute the main script to run the f
 python main.py
 ```
 
-This command will process the datasets predefined in main.py, save the annotation results to the 'results/', and print the evaluation scores to the console.
+This command will process the datasets predefined in main.py, save the annotation results to the 'results/' directory, and print the evaluation scores to the console.
 
-To adapt the framework for your custom datasets, format your data according to the examples in the 'datasets/' and modify the dataset list within the 'main.py' script accordingly.
+To adapt the framework for your custom datasets, format your data according to the examples in the 'datasets/' directory and modify the dataset list within the 'main.py' script accordingly.
