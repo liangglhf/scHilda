@@ -35,10 +35,11 @@ NEO4J\_PASSWORD="your\_neo4j\_password"
 
 Place your API key in the corresponding file of 'APIs/' directory.
 
-Set 'APIs/model/model\_api\_key.yaml':
+Set 'APIs/model/model\_api\_key.yaml' as:
 
 ```bash
-  your\_model\_api\_key  
+base_url: your_model_base_url
+api_key: your_model_api_key
 ```
 
 ## **Execution**
