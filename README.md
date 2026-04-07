@@ -3,7 +3,6 @@
 **scHilda** is a novel computational framework designed to address the critical bottleneck of cell type annotation in single-cell RNA sequencing (scRNA-seq). By deeply integrating the reasoning process of a Large Language Model (LLM) with an external Knowledge Graph (KG) and employing a hierarchical arbitration annotation strategy, scHilda significantly enhances the accuracy, robustness, and interpretability of cell type annotation. This strategy first identifies major cell lineages with the support of global knowledge and subsequently retrieves focused subgraph information related to that lineage to precisely resolve cell subtypes, thereby effectively constraining the LLM's decision space and mitigating the risk of "hallucination."
 
 <img width="4325" height="2094" alt="Figure 1" src="https://github.com/user-attachments/assets/7c7670b5-e994-4b87-b456-2132d0584f87" />
-*Figure 1: Schematic diagram of the scHilda hierarchical annotation and dynamic knowledge-enhanced reasoning framework.*
 
 ## **Installation and Configuration**
 
